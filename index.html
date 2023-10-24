@@ -60,7 +60,12 @@
     <script src="https://cdn.jsdelivr.net/npm/@editorjs/header@latest"></script><!-- Header -->
     <script src="https://cdn.jsdelivr.net/npm/@editorjs/simple-image@latest"></script><!-- Image -->
     <script src="https://cdn.jsdelivr.net/npm/@editorjs/delimiter@latest"></script><!-- Delimiter -->
+    <!-- List -->
+    <!-- <script src="https://cdn.jsdelivr.net/npm/@editorjs/list@latest"></script> -->
     <script src="./public/js/@editorjs/list.js"></script><!-- List -->
+    <!-- Nested List -->
+    <!-- <script src="https://cdn.jsdelivr.net/npm/@editorjs/nested-list@latest"></script> -->
+    <script src="./public/js/@editorjs/nested-list.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@editorjs/checklist@latest"></script><!-- Checklist -->
     <script src="https://cdn.jsdelivr.net/npm/@editorjs/quote@latest"></script><!-- Quote -->
     <script src="https://cdn.jsdelivr.net/npm/@editorjs/code@latest"></script><!-- Code -->
@@ -134,6 +139,12 @@
                         class: List,
                         inlineToolbar: true,
                         shortcut: 'CMD+SHIFT+L',
+                        tunes: ['alignmentBlockTune'],
+                    },
+
+                    nestedList: {
+                        class: NestedList,
+                        inlineToolbar: true,
                         tunes: ['alignmentBlockTune'],
                     },
 
