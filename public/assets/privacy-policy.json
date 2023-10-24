@@ -1,5 +1,5 @@
 {
-    "time" : 1698153450707,
+    "time" : 1698156125923,
     "blocks" : [
         {
             "id" : "lnncTsmu7b",
@@ -61,7 +61,7 @@
             "id" : "IsUw7ToSbL",
             "type" : "list",
             "data" : {
-                "style" : "ordered",
+                "style" : "ordered-lower-alpha",
                 "items" : [
                     "Name",
                     "Email address",
@@ -113,7 +113,7 @@
             "id" : "sb3ET8Od9P",
             "type" : "list",
             "data" : {
-                "style" : "ordered",
+                "style" : "ordered-lower-alpha",
                 "items" : [
                     "To facilitate use Services ( as defined in Terms &amp; Conditions ) and/or access to the Platform;",
                     "For carry out research activities related to User Surveys Legal and Legal Services in Indonesia.",
@@ -224,7 +224,7 @@
             "id" : "6NDkiZ8DkN",
             "type" : "list",
             "data" : {
-                "style" : "ordered",
+                "style" : "ordered-lower-alpha",
                 "items" : [
                     "Limit access to information personal",
                     "Follow progress technology safeguards to prevent access computer is invalid",
@@ -305,7 +305,7 @@
             "id" : "elSitdtZ14",
             "type" : "list",
             "data" : {
-                "style" : "ordered",
+                "style" : "ordered-lower-alpha",
                 "items" : [
                     "Your computer's IP address<br>",
                     "Browser type",
