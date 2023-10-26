@@ -1,0 +1,419 @@
+{
+    "time" : 1698332827784,
+    "blocks" : [
+        {
+            "id" : "SX5ZXIgoqj",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>Kami menjaga privasi pelanggan kami denganserius dan kami hanya akan mengumpulkan, merekam, menahan, menyimpan, mengungkapkan, dan menggunakan informasi pribadi Anda seperti yang diuraikan di bawah</b>",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "mb1J58Lizb",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Perlindungan data adalah masalah kepercayaandan privasi Anda sangat penting bagi kami. Kami hanya akan menggunakan nama Anda dan informasi yang berhubungan dengan Anda sebagaimana yang dinyatakan dalam Kebijakan Privasi berikut. Kami hanya akan mengumpulkan informasi yang kami perlukan dan kami hanya akan mengumpulkan informasi yang relevan dengan transaksi antara kami dengan Anda.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "FHfNI_pFaa",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Kami hanya akan menyimpan informasi privasi Anda selama diwajibkan oleh hukum atau selama informasi tersebut masih relevan dengan tujuan pengumpulan informasi.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "trfWvK0T70",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Anda dapat mengunjungi Platform kami (Seperti yang dijelaskan pada Syarat &amp; Ketentuan) dan menjelajahinya tanpa harus memberikan informasi pribadi. Selama kunjungan Anda ke situs kami, identitas Anda akan tetap terjaga dan kami tidak akan bisa mengidentifikasi Anda kecuali Anda memiliki akun dalam situs kami dan masuk dengan menggunakan username dan password Anda.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "D0VTmNCbHg",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Jika Anda memiliki komentar, saran atau keluhan, Anda dapat menghubungi kami (dan Data Protection Officer kami) melalui e-mail di tech@lexicon.id.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "TMLXb3JrDn",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>Pengumpulan Informasi Pribadi</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "6zz5NEgbeg",
+            "type" : "list",
+            "data" : {
+                "style" : "ordered",
+                "items" : [
+                    "Nama",
+                    "Alat Pembayaran",
+                    "Alamat Email",
+                    "Nomor Ponsel",
+                    "Tanggal Lahir",
+                    "Payment Information"
+                ]
+            },
+            "tunes" : {
+                "alignmentBlockTune" : {
+                    "alignment" : "left"
+                }
+            }
+        },
+        {
+            "id" : "rbnAJNEP64",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Anda harus menyerahkan kepada kami, agenresmi kami atau dalam Platform, informasi yang akurat, lengkap dan tidak menyesatkan. Anda harus tetap memperbarui dan menginformasikannya kepada kami apabila ada perubahan (informasi lebih lanjut di bawah). Kami berhak meminta dokumentasi untuk melakukan verifikasi informasi yang Anda berikan.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "R6BJQHTHuU",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Kami hanya akan dapat mengumpulkan informasi pribadi Anda jika Anda secara sukarela menyerahkan informasi kepada kami. Jika Anda memilih untuk tidak mengirimkan informasi pribadi Anda kepada kami atau kemudian menarik persetujuan menggunakan informasi pribadi Anda, maka hal itu dapat menyebabkan kami tidak dapat menyediakan layanan kami kepada Anda. Anda dapat mengakses dan memperbarui informasi pribadi yang Anda berikan kepada kami setiap saat seperti yang dijelaskan di bawah.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "uMEM58Wp7q",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>Penggunaan dan Pengungkapan Informasi Pribadi</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "LlO9VrQCqL",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Informasi pribadi yang kami kumpulkan dari Anda dapat digunakan, atau dibagikan dengan pihak ketiga (termasuk perusahaan terkait, penyedia jasa layanan pihak ketiga, dan penjual pihak ketiga), untuk beberapa atau semua tujuan berikut:",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "XvIUPFONg-",
+            "type" : "list",
+            "data" : {
+                "style" : "ordered-lower-alpha",
+                "items" : [
+                    "Untuk memfasilitasi penggunaan Layanan (sebagaimana didefinisikan dalam Syarat &amp; Ketentuan) dan / atau akses ke Platform;",
+                    "Untuk memproses pesanan yang Anda kirimkan melalui Platform kepada penjual pihak ketiga. Pembayaran produk yang Anda buat melalui Platform, baik yang penjual pihak ketiga, akan diproses oleh agen kami;<br>",
+                    "Untuk mengirimkan produk yang telah dibeli melalui Platform, yang dijual oleh penjual pihak ketiga. Kami dapat menyampaikan informasi pribadi Anda kepada pihak ketiga dalam rangka pengiriman produk kepada Anda (misalnya untuk kurir atau supplier kami), baik produk tersebut dijual melalui Platform oleh Lexicon atau penjual pihak ketiga;<br>",
+                    "Untuk memberi informasi pengiriman produk pada Anda, baik yang dijual melalui Platform oleh Lexicon atau penjual pihak ketiga, dan untuk kebutuhan customer support;<br>",
+                    "Untuk membandingkan informasi, dan memverifikasinya dengan pihak ketiga dalam rangka memastikan keakuratan informasi.<br>",
+                    "Selanjutnya, kami akan menggunakan informasi yang Anda berikan untuk mengelola akun Anda; memverifikasi dan melakukan transaksi keuangan dalam kaitannya dengan pembayaran yang Anda buat secara online; mengaudit pengunduhan data dari Platform; memperbarui layout dan / atau konten dari halaman Platform dan menyesuaikannya untuk pengguna; mengidentifikasi pengunjung pada Platform; melakukan penelitian tentang demografi dan perilaku pengguna kami; menyediakan informasi yang kami pikir mungkin berguna bagi Anda atau yang telah Anda minta dari kami, termasuk informasi tentang produk dan layanan kami atau penjual pihak ketiga, dimana jika Anda telah tidak keberatan dihubungi untuk tujuan ini;<br>",
+                    "Ketika Anda mendaftar menggunakan akun Lexicon atau memberikan kepada kami informasi pribadi Anda melalui Platform, kami juga akan menggunakan informasi pribadi Anda untuk mengirimkan pemasaran dan / atau materi promosi tentang produk dan layanan kami atau penjual pihak ketiga dari waktu ke waktu. Anda dapat berhenti dari berlangganan dan menerima informasi pemasaran setiap saat dengan menggunakan fungsi unsubscribe dalam materi pemasaran elektronik. Kami dapat menggunakan informasi kontak Anda untuk mengirim newsletter dari kami dan dari perusahaan terkait dengan kami; dan<br>",
+                    "Dalam keadaan tertentu, Lexicon mungkin perlu untuk mengungkapkan informasi pribadi, seperti ketika ada alasan kuat yang dapat dipercaya bahwa pengungkapan tersebut diperlukan untuk mencegah ancaman terhadap nyawa atau kesehatan, untuk tujuan penegakan hukum, atau untuk permintaan pemenuhan persyaratan hukum dan peraturan terkait."
+                ]
+            },
+            "tunes" : {
+                "alignmentBlockTune" : {
+                    "alignment" : "justify"
+                }
+            }
+        },
+        {
+            "id" : "_N-ATpY4va",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Lexicon dapat menggunakan informasi pribadi Anda dengan pihak ketiga dan afiliasi kami untuk tujuan tersebut di atas, khususnya, menyelesaikan transaksi dengan Anda, mengelola akun Anda dan hubungan kami dengan Anda, dalam rangka pemasaran dan pemenuhan persyaratan hukum atau peraturan dan permintaan yang dianggap perlu oleh Lexicon. Dalam hal ini, kami berusaha untuk memastikan bahwa pihak ketiga dan afiliasi kami menjaga informasi pribadi Anda aman dari akses yang tidak sah, pengumpulan, penggunaan, pengungkapan, atau risiko sejenis dan menyimpan informasi pribadi Anda selama informasi pribadi Anda dibutuhkan untuk tujuan yang disebutkan di atas.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "dEDY-IUoo7",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Dalam mengungkapkan atau pentransferan informasi pribadi Anda kepada pihak ketiga dan afiliasi kami yang berlokasi di luar negeri. Lexicon mengambil langkah-langkah untuk memastikan bahwa yurisdiksi setempat telah mempunyai standar perlindungan informasi pribadi.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "Cs16FQa_Lo",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Lexicon tidak terlibat dalam bisnis memperjualbelikan informasi pribadi pelanggan kepada pihak ketiga.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "z5nVwoGjge",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>Penarikan Persetujuan</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "ogynR4jbs7",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Anda dapat komunikasikan keberatan Anda atas penggunaan terus-menerus dan / atau pengungkapan informasi pribadi Anda untuk tujuan dan dengan cara tersebut di atas setiap saat dengan menghubungi kami di alamat e-mail kami di bawah.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "uxKEbiM8WK",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Perlu diketahui bahwa jika Anda menyatakan keberatan Anda untuk menggunakan dan / atau pengungkapan informasi pribadi Anda atas tujuan dan dengan cara yang kami nyatakan di atas, tergantung pada sifat dari keberatan Anda, kami mungkin saja tidak dapat menyediakan produk atau layanan kami kepada Anda atau melakukan kesepakatan apapun yang kami miliki dengan Anda. Dalam hal ini hak dan upaya hukum kami telah dinyatakan secara tertulis.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "px6MNgF4Sg",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>Memperbarui Informasi Pribadi Anda</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "9khz-60umv",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Anda dapat memperbarui Informasi pribadi Andakapan saja dengan mengakses akun dalamPlatform Lexicon. Jika Anda tidak memiliki akundengan kami, maka Anda dapet menghubungi kami pada alamat email di bawah.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "fY8iLIMVkY",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Kami mengambil langkah-langkah untuk berbagi pembaruan informasi pribadi Anda dengan pihak ketiga dan afiliasi kami jika informasi pribadi Anda masih diperlukan untuk tujuan tersebut di atas.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "hcfwlooj1A",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>Mengakses Personal Informasi Anda</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "TkvzGE-nm8",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Jika Anda ingin melihat informasi pribadi Anda yang kami miliki atau menanyakan tentang informasi pribadi Anda yang telah atau mungkin akan digunakan atau diungkapkan oleh Lexicon dalam satu tahun terakhir, silahkan hubungi kami di alamat e-mail kami di bawah. Kami berhak untuk membebankan biaya administrasi yang wajar atas keperluan ini.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "KZEW_7txlQ",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Jika Anda memiliki akun Lexicon, Anda dapat mengakses rincian pesanan Anda dengan cara masuk ke akun Anda di Platform. Di sini Anda dapat melihat rincian pesanan Anda yang telah selesai, rincian yang masih terbuka, rincian yang segera akan dikirim, dan pengelolaan alamat lengkap Anda, rincian bank, dan setiap newsletter yang mungkin telah berlangganan dengan Anda. Anda mengusahakan username, password dan rincian permintaan terjaga kerahasiaannya dan tidak memberikannya kepada pihak ketiga yang tidak berwenang. Kami tidak memiliki kewajiban menanggung penyalahgunaan username, password Lexicon atau rincian pesanan, kecuali sebagaimana yang tercantum dalam Syarat &amp; Ketentuan.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "LIfqMxoWV_",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>Keamanan Informasi Pribadi Anda</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "krABHKrUt-",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Lexicon memastikan bahwa seluruh informasi yang dikumpulkan tersimpan dengan aman. Kami menjaga informasi pribadi Anda dengan cara: a. Membatasi akses ke informasi pribadi b. Mengikuti kemajuan teknologi pengamanan untuk mencegah akses komputer tidak sah c. Dengan aman menghilangkan informasi pribadi Anda ketika tidak lagi digunakan untuk keperluan hukum atau bisnis.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "hX3T65QCEw",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Lexicon menggunakan teknologi enkripsi 128-bit SSL (secure socket layer) saat memproses rincian keuangan Anda. Enkripsi 128 – bit SSL membutuhkan waktu sekurang-kurangnya satu triliun tahun untuk dipecahkan, dan merupakan standar dalam industri.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "Z7Zma3WNMB",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Jika Anda yakin bahwa privasi Anda telah dilanggar oleh Lexicon, silahkan hubungi kami di alamat e-mail kami di bawah.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "Ji-AWZ6zuN",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Password Anda adalah kunci untuk masuk akun Anda. Silakan gunakan nomor unik, huruf dan karakter khusus, dan jangan berbagi password Lexicon Anda kepada siapa pun. Jika Anda berbagi password Anda dengan orang lain, Anda akan bertanggung jawab untuk semua tindakan dan konsekuensi yang diambil atas nama akun Anda. Jika Anda kehilangan kontrol password Anda, Anda mungkin kehilangan kontrol atas informasi pribadi Anda dan informasi lainnya yang disampaikan kepada Lexicon. Anda juga bisa dikenakan tindakan yang mengikat secara hukum yang diambil atas nama Anda. Oleh karena itu, jika password Anda telah diganggu untuk alasan apapun atau jika Anda memiliki alasan yang dapat dipercaya bahwa password Anda telah diganggu, Anda harus segera menghubungi kami dan mengganti password Anda. Anda diingatkan untuk selalu log off dari akun Anda dan menutup browser ketika selesai menggunakan komputer bersama.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "BWZvn3Zl2E",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>Dibawah Umur</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "yOEik0nxAw",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Lexicon tidak menjual produk untuk pembelianyang dilakukan oleh anak-anak. Jika Anda berusia di bawah 21 tahun, Anda harus menggunakan website kami dengan keterlibatan dan pendampingan orang tua atau wali.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "V2rCkd_Nt4",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>Pengumpulan Data Komputer</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "5rgRdfvfei",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Lexicon atau penyedia layanan resmi kami mungkin menggunakan cookies, web beacons, dan teknologi serupa lainnya untuk menyimpan informasi dalam rangka memberi Anda pengalaman yang lebih baik, lebih cepat, lebih aman dan personal ketika Anda menggunakan Layanan dan / atau mengakses Platform.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "lD_pULcxQl",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Ketika Anda mengunjungi Lexicon, server perusahaan kami akan secara otomatis menyimpan informasi bahwa browser Anda mengunjungi sebuah website. Data ini mungkin termasuk:",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "zTYznsOqMV",
+            "type" : "list",
+            "data" : {
+                "style" : "ordered-lower-alpha",
+                "items" : [
+                    "Alamat IP komputer Anda",
+                    "Tipe browser",
+                    "Halaman Web yang Anda kunjungi sebelum Anda datang ke platform kami",
+                    "Halaman-halaman dalam Platform yang Anda kunjungi",
+                    "Waktu yang dihabiskan pada halaman tersebut, barang dan informasi yang dicari pada Platform, waktu akses dan tanggal, dan statistik lainnya."
+                ]
+            },
+            "tunes" : {
+                "alignmentBlockTune" : {
+                    "alignment" : "justify"
+                }
+            }
+        },
+        {
+            "id" : "qG-2oWXC_J",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Informasi ini dikumpulkan untuk analisa dan evaluasi guna membantu kami meningkatkan Platform beserta layanan dan produk yang kami sediakan.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "Hvc0tV2r8o",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Cookies adalah file teks kecil (biasanya terdiri dari huruf dan angka) yang ditempatkan dalam memori browser atau perangkat ketika Anda mengunjungi website atau melihat pesan. Cookies memungkinkan kita untuk mengenali perangkat atau browser tertentu dan membantu kita dalam personalisasi konten yang sesuai dengan minat Anda lebih cepat, dan untuk membuat Layanan dan Landasan kita lebih nyaman dan berguna bagi Anda.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "sBwAGEWTQ3",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>Larangan Spam, Spyware, or Virus</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "PadzWggVk_",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Spam, Spyware, atau virus tidak diperbolehkan dalam Platform. Harap mengatur dan menjaga preferensi komunikasi Anda sehingga kami dapat mengirimkan komunikasi seperti yang Anda inginkan. Anda tidak memiliki ijin atau tidak diizinkan untuk menambahkan pengguna lain (bahkan pengguna yang telah membeli item dari Anda) ke milis Anda (email atau surat fisik) tanpa persetujuan mereka. Anda tidak boleh mengirim pesan yang mengandung spam, spyware atau virus melalui Platform. Jika Anda ingin melaporkan pesan yang mencurigakan, silahkan hubungi kami di alamat email kami di bawah.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "V7TfFShrr8",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>Perubahan pada Kebijakan Privasi</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "RvN9jdURnp",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Lexicon dapat secara berkala meninjau kecukupan Kebijakan Privasi ini. Kami berhak untuk memodifikasi dan mengubah kebijakan privasi setiap saat. Setiap perubahan kebijakan ini akan dipublikasikan pada Platform.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "3xKEnuqROM",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>Pemberitahuan</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "NgSAUOhUL4",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Jika Anda memilih untuk mengunjungi Lexicon, dalam kunjungan Anda terdapat permasalahan privasi, tunduk pada ketentuan ini dan Persyaratan Penggunaan, Termasuk pembatasan kerusakan, resolusi Perselisihan, dan penerapan hukum Singapura. Jika Anda memiliki kekhawatiran tentang privasi di Lexicon, silahkan hubungi kami dengan deskripsi menyeluruh, dan kami akan mencoba untuk mengatasinya. Perubahan terhadap proses bisnis kami terus- menerus terjadi, dan Pemberitahuan Privasi dan Ketentuan Penggunaan akan berubah juga. Kami dapat mengirimkan e-mail pengingat secara berkala memberitahukan kondisi kami, tetapi Anda harus memeriksa situs web kami secara berkala untuk melihat perubahan terbaru. Kecuali dinyatakan lain, Pemberitahuan Privasi kami saat ini Berlaku untuk semua informasi yang kami miliki tentang Anda dan akun Anda. Kami berdiri di belakang janji-janji yang kita buat, bagaimanapun, dan tidak akan pernah material mengubah kebijakan dan praktek kami dengan membuat mereka kurang melindungi informasi pelanggan yang dikumpulkan di masa lalu tanpa persetujuan dari pelanggan yang terkena dampak.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "UiJbKE0icL",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>Hak Lexicon</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "prrRiZ2qhU",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "ANDA MEMAHAMI DAN MENYETUJUI BAHWA LEXICON MEMILIKI HAK UNTUK MENGUNGKAPKAN INFORMASI PRIBADI ANDA PADA SETIAP PERATURAN PERUNDANG-UNDANGAN, PEMERINTAHAN, PAJAK, PENEGAKAN HUKUM ATAU PEMERINTAH ATAU PEMILIK HAK TERKAIT, JIKA Lexicon MEMILIKI ALASAN WAJAR YANG DAPAT DIPERCAYA BAHWA PENGUNGKAPAN INFORMASI PRIBADI ANDA DIPERLUKAN UNTUK KEWAJIBAN APAPUN, SEBAGAI PERSYARATAN ATAU PENGATURAN, BAIK SUKARELA ATAU WAJIB, SEBAGAI AKIBAT DARI PESANAN, PEMERIKSAAN DAN / ATAU PERMINTAAN PIHAK TERKAIT. SEJAUH DIIZINKAN OLEH HUKUM YANG BERLAKU, DALAM HAL INI ANDA SETUJU UNTUK TIDAK MELAKUKAN TUNTUTAN APAPUN TERHADAP Lexicon UNTUK PENGUNGKAPAN INFORMASI PRIBADI ANDA.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "AqLtrXnw4n",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>Menghubungi Lexicon</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "68pve4j6B-",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Jika Anda ingin menarik persetujuan Anda dalam penggunaan informasi pribadi, meminta akses dan / atau koreksi dari informasi pribadi Anda, memiliki pertanyaan, komentar atau masalah, atau memerlukan bantuan mengenai hal-hal teknis atau terkait dengan cookies, jangan ragu untuk hubungi kami (dan Data Protection Officer kami) di tech@ lexicon.id",
+                "alignment" : "left"
+            }
+        }
+    ],
+    "version" : "2.28.2"
+}
