@@ -1,0 +1,797 @@
+{
+    "time" : 1698668094711,
+    "blocks" : [
+        {
+            "id" : "9WpvQx8I0c",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Welcome  to  Lexicon  Any  person  or  entity  wishing to  use  or  access  Lexicon  must  agree  to  these  User terms and conditions (“Agreement”).",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "otuTgZamnx",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>Please  read  these  Terms  &amp;  Conditions  of  Use carefully as they may impact the User's rights and obligations  under  the  law.</b>  These  Terms  of  Use govern  use  and  access  of  the  Platform  (defined below) and use of services (defined below).",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "lcEMrlHEd3",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "By registering to use this application, you (1) either representing  yourself  or  as  a  representative  of  the entity  you  represent,  agree  to  be  bound  by  all  the terms  and  conditions  contained  in  this  agreement; and  (2)  represent  and  warrant  that  you  expressly agree to be bound by this agreement.&nbsp;",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "-dpy86mzUz",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>If you do not agree to these Terms &amp; Conditions of Use, you are prohibited from accessing and/or using this Platform or Services. PT Indexa Imaji Hukum (\"we\", \"Lexicon\") and all affiliated parties  have  the  right  to  unilaterally  terminate, limit, block and other protective measures against anyone deemed not to comply with the Terms &amp; Conditions  of  Use  for  all  forms  of  digital  and electronic assets. PT Indexa Imaji Hukum and all affiliated parties.&nbsp;</b>",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "DI8WArYIvk",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "There  are  several  areas  that  require  access  to  a password  and  the  use  of  password  protected  and/or certain protected areas on the Platform and/or use of the Services is limited to Users who have an account only.  You  may  not  obtain  or  attempt  to  obtain&nbsp;unauthorized access to areas of the Platform  and/or Services, or to areas of other protected information, by  unlawful/illegal  means  and/or  anything  without specific  use  permission  by  us.  Violation  of  this provision  is  a  violation  based  on  Indonesian  law and/or applicable laws and regulations according to the  domicile  of  PT  Indexa  Imaji  Hukum  and/or where all of its related subsidiaries are located.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "VWVa614GV2",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>If you are under 18 years of age</b>: You must obtain consent from your parent or guardian, parent/guardian's acceptance or consent to these Terms  of  Use  along  with  their  agreement  to  take responsibility for:",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "TI_OUK5yZY",
+            "type" : "list",
+            "data" : {
+                "style" : "ordered-lower-alpha-round-bracket",
+                "items" : [
+                    "your actions;",
+                    "fees associated with the use of any Services; And",
+                    "your acceptance of and compliance with these Terms &amp; Conditions of Use.",
+                    "compensation for losses in accordance with the agreed problem resolution."
+                ]
+            },
+            "tunes" : {
+                "alignmentBlockTune" : {
+                    "alignment" : "justify"
+                }
+            }
+        },
+        {
+            "id" : "OAGLKwDFOd",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>If  you  do  not  have  permission  from  a  parent  or guardian, you must stop using/accessing the platform and stop using this Service.&nbsp;</b>",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "VdHOAUopEh",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>A.  DEFINITION</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "u1r2LQfTwc",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Unless otherwise specified, the following terms shall have  the  following  meanings  in  these  Terms  &amp; Conditions:",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "THv1dLAoL-",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>“Lexicon”</b> and <b>“We”</b> refer to [<b>PT Indexa Imaji Hukum</b>], a Limited Liability Company established under Indonesian law and having its address at [Jl. Wolter Monginsidi No.71, South Jakarta, DKI Jakarta, Indonesia 12180]",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "owBF51erk8",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "\"<b>Platform</b>\" means:",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "B0P4lGfQ60",
+            "type" : "list",
+            "data" : {
+                "style" : "ordered-lower-alpha-round-bracket",
+                "items" : [
+                    "the web and/or mobile version of the web operated and/or owned by Indexa which is currently located at the following URL:[Lexicon.id]; And",
+                    "mobile applications created from time to time by Lexicon, including iOS and Android.&nbsp;<br>"
+                ]
+            },
+            "tunes" : {
+                "alignmentBlockTune" : {
+                    "alignment" : "justify"
+                }
+            }
+        },
+        {
+            "id" : "eYtMhd_4uA",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>\"Lexicon Indemnitees\"</b> means Lexicon, its affiliates and all of their respective officers, employees, directors, agents, contractors and assigns.&nbsp;",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "7_XtnxP_6M",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>\"Terms &amp; Conditions\"</b> is an agreement between the User and Lexicon which contains a set of regulations that  regulate  the  rights,  obligations,  responsibilities of  the  user  and  Lexicon,  as  well  as  procedures  for using the Lexicon service system.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "Mc5CcI7soT",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>\"Privacy Policy\"</b> means the privacy policy set out at [https://landing.lexicon.id/privacy-policy.&nbsp;",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "ublTiFCQT8",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>\"Business  Day\"</b>  means  a  day  (excluding  Saturdays and Sundays) on which commercial banks are open for business in Indonesia.&nbsp;",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "cILgJarKlO",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>\"User\"</b> or \"you\" means an individual aged over 18 or under 18 but with the representation and/or supervision  of  a  parent  or  legal  guardian  who  uses Lexicon services, including but not limited to other parties who simply visit the Lexicon platform.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "NjUa9tjfNz",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>“Intellectual Property”</b>  means  all  copyrights, patents,  utility  innovations,  trademarks  and  service marks, geographical indications, domain names, layout design rights, registered designs, design rights,  database rights,  trade  or  business  names, rights to protect trade secrets and confidential information, the right to protect goodwill and reputation,  and all  similar  or  related  proprietary rights  and  all  applications  of  the  same,  whether existing  or  made  in  the  future,  anywhere  in  the world,  whether  registered  or  not,  and  all  benefits, rights  privilege,  the  right  to  sue,  recover  damages and  obtain  relief  or  other  remedies  for,  current  or future  or  past  violations,  abuse  or  violation  of  the rights mentioned above.&nbsp;",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "5a0Hl47tzb",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>\"Losses\"</b>  means  all  penalties,  damages,  settlement amounts,  costs  (including  legal  fees  and  attorneys'&nbsp;fees), costs,  expenses, actions, proceedings, claims, suits and other liabilities, foreseeable or not.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "HNgV-YrAOZ",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>\"Materials\"</b>  means,  collectively,  all  web  pages  on the Platform, including information, graphics, links, sounds,  images,  videos,  software,  applications  and other materials displayed or available on the Platform  and  the  functions  or  services  provided  on the Platform.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "5886G1SCkc",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>\"Username\"</b> refers to the unique login identification name  or  code  that  identifies  the  User  who  has  an account on Lexicon.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "fhac3UfSbI",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>\"Password\"</b> refers to a valid password belonging to a User who has a Lexicon account which can be used with  the  Username  to  access  the  Platform  and/or related Services.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "uD_swdLv9Z",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>\"Personal  Data\"</b>  means  data,  whether  true  or  not, that  can  be  used  to  identify,  contact  or  locate  you. Personal  Data  may  include  name,  e-mail  address, telephone number and other account information tied to the platform.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "_chJlMKwUr",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>\"Prohibited Material\"</b> means any information, graphics, photos, data and/or other material that: (a)  contains  computer  viruses  or  other  invasive  or destructive code, programs or macros; (b) violate our or any third party partner's Intellectual Property Rights or other proprietary rights; (c) defamatory, libelous or threatening; (d) obscene, pornographic, indecent, false, fraudulent, theft, harmful or illegal under applicable law; and/or (e)  content  that  is  offensive  or  inappropriate  in  our opinion.&nbsp;",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "_YesDuU2Zn",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>\"Third  Party  Partner\"</b>  means  a  third  party  other than  us  who  has  access  rights  to  the  Platform  to provide and carry out services that have been agreed upon and verified by us.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "gTBGcjMPUD",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>\"Trademark\"</b> means the trademarks, service marks, trade  names  and  logos  used  and  displayed  on  the Platform.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "-mJaj3mwXz",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>\"Services\"</b> means the services, information and functions provided by us on the Platform.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "gYFRZFMhC3",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>\"Social  Media\"</b>  means  any  social  media  such  as  \" facebook, line, X, whatsapp, instagram \" used by us in disseminating information related to the Platform.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "BW_x31uTYR",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "2.  Interpretation:  Any  reference  in  the  Terms  &amp; Conditions of Use to any provision shall be interpreted as a reference to that provision as having been amended, re-enacted or extended at the relevant time. In the Agreement, whenever the word “including”  is  used,  it  will  be  deemed  to  mean “without  limitation”.  Each  title  is  not  used  as  an interpretation of these User Terms &amp; Conditions, if there  is  a  conflict  or  inconsistency  between  two  or more provisions in these Terms &amp; Conditions of Use, whether  these  provisions  are  stated  in  the  same  or different documents, then Indexa will determine the provisions that apply to the conflict or the inconsistency.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "Czzs_N5e0M",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>B. GENERAL USE &amp; PLATFORM ACCESS</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "MhxU9dwV4i",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "2.1. You agree to comply with any and all guidelines, notices, operating rules and policies and instructions relating to the use of the Services and/or access to the Platform,  as  well  as  any  changes  thereto,  issued  by us, from time to time. We reserve the right to revise guidelines, notices, operating rules, policies and instructions  at  any  time  and  you  are  deemed  to  be aware  of  and  subject  to  any  changes  mentioned above after notification or publication of such changes on the Platform or notification through other media.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "PWPApB6Sp7",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "2.2 Prohibited activities: You agree and will NOT do:",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "0m6Kt5qTsA",
+            "type" : "list",
+            "data" : {
+                "style" : "ordered-lower-alpha-round-bracket",
+                "items" : [
+                    "Pretend to be another person/entity, or provide false information, or claim to be another person or certain group;",
+                    "Using the Platform or Services for unlawful&nbsp;purposes (illegal);",
+                    "Attempt to gain unauthorized access to or interfere with or disrupt computer systems or networks connected to the Platform or Services;",
+                    "publish, promote or transmit any Prohibited Material via the Platform or Services;",
+                    "interfere with the utilization and use of the Platform or Services&nbsp;",
+                    "use or upload or upload software or material that contains / is suspected of containing viruses, damaging components, malicious code or harmful components in any way that can damage data or cause damage to the Platform or interfere with the operation of other Users' computers or mobile devices or Platform or Services; And",
+                    "use the Platform or Services outside of the usage rules/policies of each connected computer network, any applicable Internet standards and other applicable laws."
+                ]
+            },
+            "tunes" : {
+                "alignmentBlockTune" : {
+                    "alignment" : "justify"
+                }
+            }
+        },
+        {
+            "id" : "-apaUBSaRX",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "3. Availability  of  Platform  and  Services:  We  can improve,  modify,  suspend,  stop  providing,  delete, either in whole or in part, the Platform or Services, without giving reasons &amp; prior notice, and are not responsible for upgrading, modifying, suspending or deleting prevents you from accessing the Platform or parts of the Services.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "Qhr3Zvdoie",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "4. We reserve the right, but are not obligated to:",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "b6uPO6vTgL",
+            "type" : "list",
+            "data" : {
+                "style" : "ordered-lower-alpha-round-bracket",
+                "items" : [
+                    "monitor, filter or&nbsp;control any activity, content or material on the Platform and/or through the Services. In our sole discretion, we may investigate any violation of the terms and conditions contained herein and may take any action deemed appropriate&nbsp;or appropriate;",
+                    "prevent or limit User access to the Platform and/or Services;",
+                    "report activities suspected of violating applicable laws, statutes or regulations to the competent authorities and cooperate with such authorities; and/or",
+                    "request information and data from you in connection with the use of the Services and/or access to the Platform at any time, and as an exercise of our rights if you refuse to provide/disclose such information/data, or if you provide inaccurate, misleading, fraudulent data and/or information or if we have sufficient grounds to suspect that you have provided inaccurate, misleading or fraudulent data and/or information."
+                ]
+            },
+            "tunes" : {
+                "alignmentBlockTune" : {
+                    "alignment" : "justify"
+                }
+            }
+        },
+        {
+            "id" : "4HB7m3e3GH",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "5. Your use of the Services and/or your access to the Platform  is  also  subject  to  the  Privacy  Policy  as stated at [https://landing.lexicon.id/privacy-policy]",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "6GQBVO2RjS",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "6. In addition to these Terms of Use, use of certain aspects  of  the  Materials  and  Services,  more comprehensive or updated versions of the Materials offered by us or designated sub-contractors, may be subject  to  additional  terms  and  conditions,  which will be in full force and effect.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "OUGpvwMie0",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>C. USE OF THE SERVICE</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "wntM_GXCIo",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "1. In addition to all the terms and conditions in these Terms  &amp;  Conditions  of  Use,  the  provisions  in Section C are additional provisions that specifically apply to your use of the Services.&nbsp;",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "L3vlDLKmV7",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "2. Use of the Service is limited to authorized Users who are 18 years of age and who have the legal capacity to enter/make agreements/agreements and bind themselves based on applicable law. Users who violate the terms and conditions contained herein as&nbsp;well as Users who are permanently or temporarily suspended from using any Service are not permitted to use the Service even if they meet the requirements of Clause 2 Part C. ",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "ZR9zDwMznY",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "3. You hereby agree:",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "F4qMwxXLUD",
+            "type" : "list",
+            "data" : {
+                "style" : "ordered-lower-alpha-round-bracket",
+                "items" : [
+                    "to always access and/or use the Services only for purposes that do not violate the law, and in a lawful manner and further agree to carry out activities related to the Services in good faith; And",
+                    "ensure that any information or data that you provide/announce/post or appear on the Platform  in  connection  with  the  Services  is accurate and agree to be responsible for such information and data.<br>"
+                ]
+            },
+            "tunes" : {
+                "alignmentBlockTune" : {
+                    "alignment" : "justify"
+                }
+            }
+        },
+        {
+            "id" : "WllQhseWq0",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "4. We always strive to provide accurate descriptions of the information and advice provided through the platform, but cannot be held responsible for guaranteeing  that  such  descriptions  are  accurate, current or error-free.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "EJ58gJe6bm",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "5. You hereby acknowledge the existence of parties other than Lexicon (Third Party Partners) who collaborate  on  the  Platform.  This  collaboration  can be displayed on the Platform and/or social media by Lexicon or Third Party Partners.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "OPUvEYVV3Y",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>D. USERS WITH A LEXICON ACCOUNT</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "nxe1FxQsCN",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "1. Certain services available on the Platform require the creation of an account or require you to provide your Personal Data. If you want to create a Lexicon account, the Username and Password can be:",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "Ai94-qNtHu",
+            "type" : "list",
+            "data" : {
+                "style" : "ordered-lower-roman-round-bracket",
+                "items" : [
+                    "determined and provided by us to you; or",
+                    "you determine/give and are accepted by us based on our absolute discretion regarding the use of the Services and/or access to the relevant Platform.&nbsp;<br>"
+                ]
+            },
+            "tunes" : {
+                "alignmentBlockTune" : {
+                    "alignment" : "justify"
+                }
+            }
+        },
+        {
+            "id" : "LjSQR8p3B9",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "We may at any time at our discretion ask you to update  your  Personal  Data  or  may  cancel  your Username and/or Password without prior notice and are not responsible for any Losses (if any) suffered by  you,  or  caused  by  you,  or  arising  from cancellation , or in connection with cancellation, or from the basis/reasons for requesting cancellation or cancellation.  You  hereby  agree  to  change/update your  Password  periodically  and  to  keep  your Username  and  Password  confidential  and  are responsible for the security of your account and are responsible for the disclosure or use (whether such use is permitted or not) of your Username and/or password. You must immediately contact us if you know  or  have  reason  to  suspect  that  the confidentiality of your Username and/or Password has been compromised or if there is unauthorized use of  your  Username  and/or  Password  or  if  your Personal Data needs to be updated.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "SaXTO3gSbC",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "2. You agree and acknowledge that every use of the Service  and/or  access  to  the  Platform  and information, data or communication referring to your Username and Password will be considered, as:",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "4J0fb4kbZ_",
+            "type" : "list",
+            "data" : {
+                "style" : "ordered",
+                "items" : [
+                    "your  access  to  the  Platform  and/or  use  of  the Services; or",
+                    "Posting,  announcement/disclosure,  giving: information, data or communication, authorized by you."
+                ]
+            },
+            "tunes" : {
+                "alignmentBlockTune" : {
+                    "alignment" : "justify"
+                }
+            }
+        },
+        {
+            "id" : "ckUL-sjNWB",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "3. You hereby agree to comply with access to the Platform and/or use of the Services (whether such access or use is with your permission or not) and you agree that we have the right (but are not obliged) to hold  and  assume  that  the  use  of  your  Username and/or name or Your Password was carried out by you  yourself  (as  long  as  no  previous  reports  of unauthorized use of your account have been proven)&nbsp;and have the right to conclude that such use/activity was  carried  out  or  sent  by  you  and  hold  you responsible. You further agree and acknowledge that you  are  bound  and  fully  responsible  for compensation or for any losses incurred due to any use of any Service and/or access to the Platform in the name of your Username and Password.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "rTvdxdtJvK",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>E. INTELLECTUAL PROPERTY</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "-DkK_DgPUU",
+            "type" : "list",
+            "data" : {
+                "style" : "ordered",
+                "items" : [
+                    "Intellectual Property (IPR) in or on the Platform and on any Materials is owned, licensed or controlled by us, or our licensors or our service providers. We reserve the right to safeguard Intellectual Property to the fullest extent of the law.",
+                    "No part of the Platform, Material and social media information  can  be  reproduced,  engineered, decompiled,  disassembled,  separated,  modified, distributed, republished, displayed, broadcast, linked ( hyperlinked), mirrored, framed, transferred or sent in  any  way  or  stored/installed  in  an  information retrieval system or installed on a server, system or equipment, without prior written permission from us or the copyright owner. concerned. In accordance with Point E.2, permission will only be given to you to download, print or use the Material for personal and non-commercial use, provided that you do not modify  the  Material,  and  we  or  the  relevant Copyright  owner  are  the  holders  of  all/every Copyright and Rights Other proprietary copyrights contained in the Materials.<br>",
+                    "Trademarks  registered  and  unregistered  in  our name or in the name of third party partners.",
+                    "Nothing on the Platform and these Terms of Use shall  be  construed  as  granting,  impliedly  or otherwise, or construed as a license or right to use (including meta tags or \"hot\" links to other websites) any Trademark displayed on Services, without the written permission of us or the owner of the other applicable Trademark.<br>"
+                ]
+            },
+            "tunes" : {
+                "alignmentBlockTune" : {
+                    "alignment" : "justify"
+                }
+            }
+        },
+        {
+            "id" : "7ZPyY63LwR",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>F.  LIMITATION  OF  RESPONSIBILITY AND OBLIGATION</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "3UGm3GX25O",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "1. The Services, Platform and Materials provided are on an \"as is\" and \"as available\" basis. All data and/or information contained in the Platform, Services or Materials  provided  is  intended  for  informational purposes  only.  There  are  no  representations  or warranties of any kind, implied, express or regulated, including  warranties  of  non-infringement  (non-infringement) of third parties including: rights, title, satisfactory  quality  or  fitness  for  a  particular purpose, with respect to the Platform, Services or Materials  .  Without  prejudice  to  other  applicable provisions, we do not guarantee:&nbsp;",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "XSTEXAQ1N1",
+            "type" : "list",
+            "data" : {
+                "style" : "ordered-lower-alpha-round-bracket",
+                "items" : [
+                    "the accuracy, timeliness, adequacy, commercial value or completeness of all data and/or information contained in the Platform, Services or Materials;",
+                    "that the Platform, Services or any Materials are always available uninterrupted, secure or free from errors or omissions, or that any defects discovered will be promptly corrected;",
+                    "that  the  Platform,  Services  or  Materials  are always  free  from  computer  viruses  or  other malicious,  harmful,  destructive  code,  agents, programs or macros; And&nbsp;",
+                    "security of any information sent by you or to you via the Platform or Services, and you hereby accept the risk that any information sent or received via the Services  or  Platform  may  be  accessed  by unauthorized third parties and/or disclosed by us or&nbsp;officers, employees or agents to third parties who claim to be you or purport to act under your authority. Transmissions over the Internet and electronic mail may  be  subject  to  interference,  transmission blackouts,  delayed  transmission  due  to  internet traffic  or  improper  data  transmission  due  to  the public nature of the internet.&nbsp;<br>"
+                ]
+            },
+            "tunes" : {
+                "alignmentBlockTune" : {
+                    "alignment" : "justify"
+                }
+            }
+        },
+        {
+            "id" : "Mdiz8MT3pu",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "2. Lexicon is not responsible to you for any losses whatsoever  or  howsoever  caused  (in  any  form) arising directly or indirectly related to:",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "cC5O5CYJkp",
+            "type" : "list",
+            "data" : {
+                "style" : "ordered-lower-alpha-round-bracket",
+                "items" : [
+                    "access, use and/or inability to use the Platform or Services;",
+                    "your reliance (reliance) on the data or information available through the Platform and/or through the Services. You  should  not  act  directly  on  data  or information without first independently verifying its contents;&nbsp;",
+                    "system,  server  or  connection  failures,  errors, omissions,  interruptions,  delays  in  transmission, computer  viruses  or  other  harmful,  harmful  or destructive code, agent programs or macros; And",
+                    "any use of or access to other websites or web pages that are linked to the Platform or contain links on the Platform, even if we or our officers or agents or  employees  have  been  advised,  or  may  have anticipated, of the possibility of the same. &nbsp;"
+                ]
+            },
+            "tunes" : {
+                "alignmentBlockTune" : {
+                    "alignment" : "justify"
+                }
+            }
+        },
+        {
+            "id" : "HeEOR6JK6s",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "3. Any risk of misunderstanding, error, damage, costs or losses resulting from the use of the Platform, is entirely at your own risk and Lexicon is not responsible for it.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "9711v4tgef",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>G.  HYPERLINKS,  WARNINGS  AND ADVERTISEMENTS</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "o8y9q-MKT2",
+            "type" : "list",
+            "data" : {
+                "style" : "ordered",
+                "items" : [
+                    "For your convenience, we may include hyperlinks to  other  sites  or  content  on  the  Internet  that  are owned or operated by third party partners. The linked sites or content are not under our control and we are not  responsible  for  any  errors,  omissions,  delays, libel,  slander,  falsehood,  obscenity,  pornography, profanity, inaccuracy or other material contained in the content, or the consequences of accessing it. , any related  websites. Any  hyperlink  to  other  sites  or content  does  not  constitute  an  endorsement  or verification of such site or content and you agree that your access to or use of any linked site or content is entirely at your own risk.",
+                    "We may attach banners, java applets, java scripts and/or  other  materials  on  the  Platform  for  the purpose of advertising or advertising our products and/or  services  or  advertising/advertising  the products/services of our Third Party Partners. For the avoidance  of  doubt,  you  have  no  right  to  any payments, fees and/or commissions in connection with such advertising or other promotional materials.<br>"
+                ]
+            },
+            "tunes" : {
+                "alignmentBlockTune" : {
+                    "alignment" : "justify"
+                }
+            }
+        },
+        {
+            "id" : "Nf5mtWj3J3",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>H.  YOUR  SUBMISSIONS  AND INFORMATION</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "QEtK3yzJB-",
+            "type" : "list",
+            "data" : {
+                "style" : "ordered",
+                "items" : [
+                    "You grant us non-exclusive permission/license to use material or information that you submit to the Platform  and/or  provide  to  us,  including  but  not limited to, providing application usage information, questions,  reviews,  comments  and  suggestions (collectively,  \"  Submission\").  When  you  post  a Submission, you also grant us the right to use your submitted  name  or  Username  in  connection  with such reviews, comments, or other content. You will not use a false e-mail address, pretend to be someone other  than  yourself  or  mislead  us  or  third  party partners as to the origin of any Submissions. We may, but are not obligated to, publish, delete or edit your Submissions.",
+                    "You  agree  and  authorize  our  use  of  any information  provided  by  you  (including  Personal Data) for the purposes of sending information and promotional e-mails to you. Your agreement to the provisions of this Clause constitutes your agreement which  aims  to  protect  against  spam  (whether  in Indonesia or elsewhere). You can opt out of receiving promotional  e-mails  by  clicking  on  the  hyperlink provided in the e-mail promotion to indicate that you will unsubscribe from the e-mail promotion.<br>",
+                    "You hereby declare that you have read and agree to  the  Privacy  Policy  as  described  in [https://landing.lexicon.id/privacy-policy],  and agree to the collection, use and disclosure of your Personal  Data  for  the  purposes  as  set  out  in  the Privacy Policy.<br>"
+                ]
+            },
+            "tunes" : {
+                "alignmentBlockTune" : {
+                    "alignment" : "justify"
+                }
+            }
+        },
+        {
+            "id" : "YHvrmV2xwB",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>I. TERMINATION</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "Lb4gtMH6TX",
+            "type" : "list",
+            "data" : {
+                "style" : "ordered",
+                "items" : [
+                    "Based on our policy, immediately after providing notice,  we  may  stop  using  the  Platform  and/or Services  and/or  deactivate  your  Username  and Password.  We  may  terminate  your  access  to  the Platform and/or Services (or any part thereof) for certain reasons, including in the event of a violation of these Terms of Use or where we believe that you have  violated  or  acted  inconsistently  with  the applicable terms or conditions herein, or if in our opinion or the opinion of a regulatory authority, such services  relating  to  the  Platform  cannot  be provided/performed.",
+                    "You can terminate these Terms of Use by giving us written notice within 7 (seven) working days.&nbsp;<br>"
+                ]
+            },
+            "tunes" : {
+                "alignmentBlockTune" : {
+                    "alignment" : "justify"
+                }
+            }
+        },
+        {
+            "id" : "CyzFd-RU0p",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>J. NOTICE</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "MkIQp6QrYd",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "1.  Notices  from  us:  All  notices  or  other communications provided to you:",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "Oq_M8bR-M-",
+            "type" : "list",
+            "data" : {
+                "style" : "ordered-lower-alpha-round-bracket",
+                "items" : [
+                    "communicated via print or electronic media that we send within a publication or broadcast date that we have chosen; or",
+                    "sent  by  post  or  delivered  at  your  last  known address, and will be deemed to have been received by you on the day of such delivery or on the day of receipt.<br>"
+                ]
+            },
+            "tunes" : {
+                "alignmentBlockTune" : {
+                    "alignment" : "justify"
+                }
+            }
+        },
+        {
+            "id" : "wawnwj1yUw",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "2. You can only give notice to us in writing sent to our  designated  address  or  e-mail  address (tech@lexicon.id), and we will consider you to have received such notice only on the date of receipt. We strive to respond quickly to any notifications from you, but we cannot guarantee that we will always respond with consistent speed at all times.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "fM7ehTBZvq",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "3. Notwithstanding the provisions in Clauses 1 and 2 above, we may at any time choose other media or methods of providing notifications (including but not limited  to  e-mail  or  other  forms  of  electronic communication) which time or time are deemed to have been received on when the notification is given.&nbsp;",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "sN1SxGSNmc",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>K. LEGAL PROVISIONS</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "xScIomEvXz",
+            "type" : "list",
+            "data" : {
+                "style" : "ordered",
+                "items" : [
+                    "&nbsp;The  User  Terms  &amp;  Conditions  will  be  governed and interpreted in accordance with the laws of Indonesia  and  you  hereby  submit  to  the  exclusive jurisdiction of Indonesian Law.",
+                    "Legal  Assistance:  We  may  seek  or  use  legal assistance immediately in good faith to address violations  or  non-compliance  with  these  Terms  &amp; Conditions  of  Use  in  such  a  way  that  a  temporary restraining  order  or  other  immediate  redress  is  the only appropriate or adequate remedy.<br>"
+                ]
+            },
+            "tunes" : {
+                "alignmentBlockTune" : {
+                    "alignment" : "justify"
+                }
+            }
+        },
+        {
+            "id" : "rHPtyi8t4S",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>L. CHANGES</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "2hN2c8pX73",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "We,  with  notification  via  the  Platform  or  by  other methods as we wish (which may include notification via e-mail), can change the terms &amp; conditions in the Terms  of  Use  which  are  in  effect  on  the  date  we determine  via  the  method  above.  If  you  use  the Platform or Services after that date, you are deemed to have accepted the changes. If you want to accept or reject these  changes,  you must stop accessing or using the Platform and Services and terminate these Terms of Use. Our right to change the Terms of Use above  can  be  exercised  without  the  consent  of  any person or entity that is not a party to these Terms  of Use.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "5Wi7rA8MVV",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>M. FORCE CIRCUMSTANCES</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "NTTy667d0m",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "We are released from liability for any default, error, interruption  or  delay  in  carrying  out  obligations  or for any inaccuracies or inconsistencies in the Platform and/or the content of the Services, if this is caused, in whole or in part, directly or indirectly, by an event or failure caused by Force Majeure.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "PN7Av81Of6",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>N. OTHER PROVISIONS</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "tvqgiFlRXY",
+            "type" : "list",
+            "data" : {
+                "style" : "ordered",
+                "items" : [
+                    "<b>Cumulative  rights  and  remedies</b>:  Unless otherwise  provided  in  these  Terms  of  Use,  the clauses of these Terms of Use and our rights and remedies under these Terms of Use, are cumulative and without prejudice to any rights or remedies we may have under law or equity, and nothing in the provisions will preclude or prevent our rights and remedies or remedies under applicable law.",
+                    "<b>No Waiver</b>: Our failure to enforce these Terms of Use shall not constitute a waiver of these provisions, and such failure shall not affect our subsequent right to  enforce  these  Terms  of  Use.  We  will  remain entitled to use our rights and legal remedies in any other circumstances where you violate these Terms of Use.<br>",
+                    "<b>Severability</b>: If at any time any provision in these Terms  of  Use  becomes  illegal,  invalid  or unenforceable in any way, then the legality, validity and enforceability of the other provisions in these Terms of Use will not be affected or reduced thereby, and will continue to apply.<br>",
+                    "<b>Third Party Rights</b>: A person or party who is not a party subject to these Terms of Use, has no right under  any  law  or  jurisdiction  to  enforce  the provisions of these Terms of Use. For the avoidance of doubt, nothing in this Clause will affect the rights of any permitted assignment of these Terms of Use.<br>",
+                    "<b>Correction of errors</b>: Any typographical, clerical or other errors or omissions in receipts, invoices or other  documents  that  occur  on  our  side  will  be subject to our corrections made by us.<br>",
+                    "<b>Entire  agreement</b>:  The  Terms  of  Use  shall constitute the entire agreement between you and us relating to the subject matter of the agreement and supersedes  and  completely  replaces  all  previous&nbsp;understandings,  communications  and  agreements with respect to the subject matter of the agreement.<br>",
+                    "<b>Binding and conclusive</b>: You acknowledge and agree  that  any  records  (including  records  of  any telephone conversations related to the Services, if any) maintained by us or our service providers in connection  with  or  relating  to  the  Platform  and Services are binding and conclusive on you for all purposes  whatsoever  and  as  evidence  of  any information and/or data sent between us and you. You agree that all such records are admissible as evidence and that you will not challenge or dispute the admissibility, reliability, accuracy or authenticity of such records on the basis that they are in electronic form  or output  from  a computer system  and  you hereby waive your rights against -that matter.<br>",
+                    "<b>Subcontractors and delegation</b>: We reserve the right to delegate or sub-contract the performance of any of our functions in connection with the Platform and/or Services and reserve the right to use such service providers, subcontractors  and/or agents  as are reasonable in our view.<br>",
+                    "<b>Assignment</b>: You may not assign your rights and obligations  to  the  Terms  &amp;  Conditions  of  Use without our prior written permission."
+                ]
+            },
+            "tunes" : {
+                "alignmentBlockTune" : {
+                    "alignment" : "justify"
+                }
+            }
+        }
+    ],
+    "version" : "2.28.2"
+}
