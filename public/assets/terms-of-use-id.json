@@ -1,5 +1,5 @@
 {
-    "time" : 1698661544300,
+    "time" : 1698682454876,
     "blocks" : [
         {
             "id" : "5TGSkWFe1G",
@@ -13,7 +13,7 @@
             "id" : "I3ZOBR1S1n",
             "type" : "paragraph",
             "data" : {
-                "text" : "<b>Silahkan membaca Syarat & Ketentuan Penggunaan ini dengan seksama karena dapat berdampak kepada hak dan kewajiban Pengguna di bawah hukum</b>. Syarat Penggunaan ini mengatur penggunaan dan akses Platform (didefinisikan di bawah) dan penggunaan layanan (didefinisikan di bawah).",
+                "text" : "<b>Silahkan membaca Syarat &amp; Ketentuan Penggunaan ini dengan seksama karena dapat berdampak kepada hak dan kewajiban Pengguna di bawah hukum</b>. Syarat Penggunaan ini mengatur penggunaan dan akses Platform (didefinisikan di bawah) dan penggunaan layanan (didefinisikan di bawah).",
                 "alignment" : "justify"
             }
         },
@@ -29,7 +29,7 @@
             "id" : "5Qy3SFKQB8",
             "type" : "paragraph",
             "data" : {
-                "text" : "<b>Jika Anda tidak menyetujui Syarat & Ketentuan Penggunaan ini, dilarang mengakses dan/atau menggunakan Platform maupun Layanan  ini.  PT  Indexa  Imaji  Hukum(“kami”, “Lexicon”)  dan  semua  pihak  terafiliasi  berhak untuk melakukan penghentian, pembatasan, pemblokiran dan usaha-usaha perlindungan lainnya secara sepihak terhadap siapapun yang dinilai  tidak  memenuhi  Syarat  &  Ketentuan Penggunaan terhadap segala bentuk aset digital dan elektronik PT Indexa Imaji Hukum beserta semua pihak terafiliasi.</b>",
+                "text" : "<b>Jika Anda tidak menyetujui Syarat &amp; Ketentuan Penggunaan ini, dilarang mengakses dan/atau menggunakan Platform maupun Layanan  ini.  PT  Indexa  Imaji  Hukum(“kami”, “Lexicon”)  dan  semua  pihak  terafiliasi  berhak untuk melakukan penghentian, pembatasan, pemblokiran dan usaha-usaha perlindungan lainnya secara sepihak terhadap siapapun yang dinilai  tidak  memenuhi  Syarat  &amp;  Ketentuan Penggunaan terhadap segala bentuk aset digital dan elektronik PT Indexa Imaji Hukum beserta semua pihak terafiliasi.</b>",
                 "alignment" : "justify"
             }
         },
@@ -65,7 +65,7 @@
                 "items" : [
                     "tindakan Anda;",
                     "biaya yang terkait dengan penggunaan setiap Layanan;dan",
-                    "penerimaan dan kepatuhan Anda sesuai dengan Syarat & Ketentuan Penggunaan ini.",
+                    "penerimaan dan kepatuhan Anda sesuai dengan Syarat &amp; Ketentuan Penggunaan ini.",
                     "penggantian kerugian sesuai dengan penyelesaian masalah yang disepakati."
                 ]
             },
@@ -87,7 +87,7 @@
             "id" : "F2-RzbaMrk",
             "type" : "paragraph",
             "data" : {
-                "text" : "Kecuali ditentukan lain, istilah berikut akan memiliki arti sebagai berikut dalam Syarat & Ketentuan ini:",
+                "text" : "Kecuali ditentukan lain, istilah berikut akan memiliki arti sebagai berikut dalam Syarat &amp; Ketentuan ini:",
                 "alignment" : "justify"
             }
         },
@@ -95,7 +95,7 @@
             "id" : "zekkdaNQeA",
             "type" : "paragraph",
             "data" : {
-                "text" : "<b>“Lexicon”</b>, <b>“Kita’</b>, dan <b>“Kami”</b> merujuk kepada <b>[PT Indexa Imaji Hukum]</b>, sebuah Perseroan Terbatasyang didirikan berdasarkan hukum Indonesia dan beralamat di [Jl. Wolter Monginsidi No.71, South Jakarta, DKI Jakarta, Indonesia 12180]",
+                "text" : "<b>“Lexicon”</b>, <b>”Kita”</b>, dan <b>“Kami”</b> merujuk kepada <b>[PT Indexa Imaji Hukum]</b>, sebuah Perseroan Terbatasyang didirikan berdasarkan hukum Indonesia dan beralamat di [Jl. Wolter Monginsidi No.71, South Jakarta, DKI Jakarta, Indonesia 12180]",
                 "alignment" : "justify"
             }
         },
@@ -135,7 +135,7 @@
             "id" : "oEh-i94sww",
             "type" : "paragraph",
             "data" : {
-                "text" : "<b>“Syarat  &  ketentuan”</b>  adalah  perjanjian  antara Pengguna dan Lexicon yang berisikan seperangkat peraturan yang mengatur hak, kewajiban, tanggung jawab pengguna dan Lexicon, serta tata cara penggunaan sistem layanan Lexicon.",
+                "text" : "<b>“Syarat  &amp;  ketentuan”</b>  adalah  perjanjian  antara Pengguna dan Lexicon yang berisikan seperangkat peraturan yang mengatur hak, kewajiban, tanggung jawab pengguna dan Lexicon, serta tata cara penggunaan sistem layanan Lexicon.",
                 "alignment" : "justify"
             }
         },
@@ -200,7 +200,7 @@
             "type" : "paragraph",
             "data" : {
                 "text" : "<b>\"Password\"</b>  mengacu  pada  password  yang  valid milik Pengguna yang memiliki akun Lexicon yang dapat digunakan dengan Username untuk mengakses Platform dan / atau Layanan terkait.",
-                "alignment" : "left"
+                "alignment" : "justify"
             }
         },
         {
@@ -208,7 +208,7 @@
             "type" : "paragraph",
             "data" : {
                 "text" : "<b>\"Data  Pribadi\"</b>  berarti  data,  apakah  benar  atau tidak, yang dapat digunakan untuk mengidentifikasi, menghubungi atau mencari Anda. Data Pribadi bisa termasuk nama, alamat e-mail,  nomor  telepon  dan  informasi  akun  lainnya yang terikat didalam platform.",
-                "alignment" : "left"
+                "alignment" : "justify"
             }
         },
         {
@@ -216,7 +216,7 @@
             "type" : "paragraph",
             "data" : {
                 "text" : "<b>\"Materi Terlarang\"</b> berarti setiap informasi, grafis, foto, data dan/atau materi lainnya yang:",
-                "alignment" : "left"
+                "alignment" : "justify"
             }
         },
         {
@@ -274,7 +274,7 @@
             "id" : "WA00Vzygw3",
             "type" : "paragraph",
             "data" : {
-                "text" : "2. Intepretasi : Setiap acuan pada Syarat & Ketentuan Penggunaan untuk setiap ketentuan harus  ditafsirkan  sebagai  acuan  bahwa  ketentuan tersebut  sebagaimana  telah  diubah,  diberlakukan kembali atau diperpanjang pada waktu yang relevan. Dalam Perjanjian, setiap kali kata \"termasuk\" digunakan, akan dianggap sebagai \"tanpa batasan\". Setiap Judul tidak dijadikan interpretasi atas Syarat & Ketentuan Pengguna ini, jika  terjadi  konflik  atau  inkonsistensi  antara  dua atau  lebih  ketentuan  dalam  Syarat  &  Ketentuan Penggunaan ini, apakah ketentuan tersebut tercantum dalam dokumen yang sama atau berbeda, maka Indexa akan menentukan ketentuan yang berlaku terhadap konflik atau inkonsistensi tersebut.",
+                "text" : "2. Intepretasi : Setiap acuan pada Syarat &amp; Ketentuan Penggunaan untuk setiap ketentuan harus  ditafsirkan  sebagai  acuan  bahwa  ketentuan tersebut  sebagaimana  telah  diubah,  diberlakukan kembali atau diperpanjang pada waktu yang relevan. Dalam Perjanjian, setiap kali kata \"termasuk\" digunakan, akan dianggap sebagai \"tanpa batasan\". Setiap Judul tidak dijadikan interpretasi atas Syarat &amp; Ketentuan Pengguna ini, jika  terjadi  konflik  atau  inkonsistensi  antara  dua atau  lebih  ketentuan  dalam  Syarat  &amp;  Ketentuan Penggunaan ini, apakah ketentuan tersebut tercantum dalam dokumen yang sama atau berbeda, maka Indexa akan menentukan ketentuan yang berlaku terhadap konflik atau inkonsistensi tersebut.",
                 "alignment" : "justify"
             }
         },
@@ -282,7 +282,7 @@
             "id" : "dhISVEahp4",
             "type" : "paragraph",
             "data" : {
-                "text" : "<b>B. PENGGUNAAN UMUM & AKSES PLATFORM</b>",
+                "text" : "<b>B. PENGGUNAAN UMUM &amp; AKSES PLATFORM</b>",
                 "alignment" : "left"
             }
         },
@@ -327,7 +327,7 @@
             "id" : "rcCf2CrGmb",
             "type" : "paragraph",
             "data" : {
-                "text" : "3. Ketersediaan Platform dan Layanan: Kami dapat meningkatkan, memodifikasi, menghentikan sementara, menghentikan penyediaan, menghapus, baik secara keseluruhan atau sebagian dari Platform atau Layanan, tanpa memberikan alasan & pemberitahuan sebelumnya, dan tidak bertanggung jawab  jika  peningkatan,  modifikasi,  suspensi  atau penghapusan  tersebut  mencegah  Anda  mengakses Platform atau bagian dari Layanan.",
+                "text" : "3. Ketersediaan Platform dan Layanan: Kami dapat meningkatkan, memodifikasi, menghentikan sementara, menghentikan penyediaan, menghapus, baik secara keseluruhan atau sebagian dari Platform atau Layanan, tanpa memberikan alasan &amp; pemberitahuan sebelumnya, dan tidak bertanggung jawab  jika  peningkatan,  modifikasi,  suspensi  atau penghapusan  tersebut  mencegah  Anda  mengakses Platform atau bagian dari Layanan.",
                 "alignment" : "justify"
             }
         },
@@ -385,7 +385,7 @@
             "id" : "im1sx4PQkb",
             "type" : "paragraph",
             "data" : {
-                "text" : "1. Selain dari semua syarat dan ketentuan di Syarat & Ketentuan Penggunaan ini, ketentuan dalam Bagian C merupakan ketentuan – ketentuan tambahan  yang  spesifik  berlaku  atas  penggunaan Anda atas Layanan.",
+                "text" : "1. Selain dari semua syarat dan ketentuan di Syarat &amp; Ketentuan Penggunaan ini, ketentuan dalam Bagian C merupakan ketentuan – ketentuan tambahan  yang  spesifik  berlaku  atas  penggunaan Anda atas Layanan.",
                 "alignment" : "justify"
             }
         },
@@ -574,7 +574,7 @@
             "type" : "paragraph",
             "data" : {
                 "text" : "2. Lexicon  tidak  bertanggung  jawab  kepada  Anda untuk  Kerugian  apapun  atau  apapun  penyebabnya (dalam bentuk apapun) yang timbul secara langsung atau tidak langsung yang terkait atas:",
-                "alignment" : "left"
+                "alignment" : "justify"
             }
         },
         {
@@ -666,8 +666,8 @@
             "data" : {
                 "style" : "ordered",
                 "items" : [
-                    "Berdasarkan kebijakan kami, segera setelah memberikan pemberitahuan, kami dapat menghentikan penggunaan Platform dan/atau Layanan  dan/atau  menonaktifkan  Username  dan Password  Anda.  Kami  dapat  menghentikan  akses Anda  ke  Platform  dan/atau  Layanan  (atau  bagian daripadanya) dengan alasan tertentu, termasuk jika terjadi  pelanggaran  terhadap  Syarat  &  Ketentuan Penggunaan  ini  atau  di  mana  jika  kami  percaya bahwa  Anda  telah  melanggar  atau  bertindak  tidak sesuai dengan syarat atau ketentuan yang berlaku di sini,  atau  jika  dalam  pendapat  kami  atau  pendapat otoritas  regulasi,  layanan  tersebut  yang  berkaitan dengan Platform tidak untuk dapat diberikan/dilaksanakan.",
-                    "Anda  dapat  mengakhiri  Syarat  &  Ketentuan Penggunaan ini dengan memberikan pemberitahuan secara tertulis dalam waktu 7 (tujuh) hari kerja kepada kami. "
+                    "Berdasarkan kebijakan kami, segera setelah memberikan pemberitahuan, kami dapat menghentikan penggunaan Platform dan/atau Layanan  dan/atau  menonaktifkan  Username  dan Password  Anda.  Kami  dapat  menghentikan  akses Anda  ke  Platform  dan/atau  Layanan  (atau  bagian daripadanya) dengan alasan tertentu, termasuk jika terjadi  pelanggaran  terhadap  Syarat  &amp;  Ketentuan Penggunaan  ini  atau  di  mana  jika  kami  percaya bahwa  Anda  telah  melanggar  atau  bertindak  tidak sesuai dengan syarat atau ketentuan yang berlaku di sini,  atau  jika  dalam  pendapat  kami  atau  pendapat otoritas  regulasi,  layanan  tersebut  yang  berkaitan dengan Platform tidak untuk dapat diberikan/dilaksanakan.",
+                    "Anda  dapat  mengakhiri  Syarat  &amp;  Ketentuan Penggunaan ini dengan memberikan pemberitahuan secara tertulis dalam waktu 7 (tujuh) hari kerja kepada kami. "
                 ]
             },
             "tunes" : {
@@ -738,8 +738,8 @@
             "data" : {
                 "style" : "ordered",
                 "items" : [
-                    "Syarat & Ketentuan Pengguna akan diatur dan ditafsirkan sesuai dengan hukum Indonesia dan Anda dengan ini tunduk pada yurisdiksi eksklusif Hukum Indonesia.",
-                    "Bantuan Hukum: Kami dapat mencari atau menggunakan bantuan hukum dengan segera berdasarkan itikad baik untuk menangani pelanggaran atau tidak dipatuhinya Syarat & Ketentuan  Pengunaan  ini  adalah  sedemikian  rupa sehingga perintah penahanan sementara atau langsung ganti-rugi lainnya adalah satu-satunya yang sesuai atau memadai."
+                    "Syarat &amp; Ketentuan Pengguna akan diatur dan ditafsirkan sesuai dengan hukum Indonesia dan Anda dengan ini tunduk pada yurisdiksi eksklusif Hukum Indonesia.",
+                    "Bantuan Hukum: Kami dapat mencari atau menggunakan bantuan hukum dengan segera berdasarkan itikad baik untuk menangani pelanggaran atau tidak dipatuhinya Syarat &amp; Ketentuan  Pengunaan  ini  adalah  sedemikian  rupa sehingga perintah penahanan sementara atau langsung ganti-rugi lainnya adalah satu-satunya yang sesuai atau memadai."
                 ]
             },
             "tunes" : {
@@ -760,7 +760,7 @@
             "id" : "Uo9rwZ7EfE",
             "type" : "paragraph",
             "data" : {
-                "text" : "Kami dengan pemberitahuan melalui Platform atau dengan  metode  lain  seperti  kami  inginkan  (yang mungkin termasuk pemberitahuan melalui e-mail), dapat  merubah  syarat  &  ketentuan  pada  Syarat Penggunaan yang berlaku pada tanggal yang kami tentukan melalui cara di atas. Jika Anda menggunakan Platform atau Layanan setelah tanggal  tersebut,  Anda  dianggap  telah  menerima perubahan tersebut. Jika Anda mau menerima atau penolakan perubahan tersebut, Anda harus berhenti akses atau menggunakan Platform dan Layanan dan mengakhiri Syarat Penggunaan ini. Hak kami untuk merubah  Syarat  Penggunaan  di  tersebut  di  atas dapat  dilaksanakan  tanpa  persetujuan  dari  setiap orang  atau  badan  yang  bukan  merupakan  pihak berdasarkan Syarat Penggunaan ini.",
+                "text" : "Kami dengan pemberitahuan melalui Platform atau dengan  metode  lain  seperti  kami  inginkan  (yang mungkin termasuk pemberitahuan melalui e-mail), dapat  merubah  syarat  &amp;  ketentuan  pada  Syarat Penggunaan yang berlaku pada tanggal yang kami tentukan melalui cara di atas. Jika Anda menggunakan Platform atau Layanan setelah tanggal  tersebut,  Anda  dianggap  telah  menerima perubahan tersebut. Jika Anda mau menerima atau penolakan perubahan tersebut, Anda harus berhenti akses atau menggunakan Platform dan Layanan dan mengakhiri Syarat Penggunaan ini. Hak kami untuk merubah  Syarat  Penggunaan  di  tersebut  di  atas dapat  dilaksanakan  tanpa  persetujuan  dari  setiap orang  atau  badan  yang  bukan  merupakan  pihak berdasarkan Syarat Penggunaan ini.",
                 "alignment" : "justify"
             }
         },
@@ -802,7 +802,7 @@
                     "<b>Seluruh kesepakatan</b>: Syarat  Penggunaan harus merupakan keseluruhan perjanjian antara Anda dan kami berkaitan dengan materi pokok dalam perjanjian  dan  menggantikan  dan  menggantikansecara  penuh  semua  pemahaman,  komunikasi  dan perjanjian  sebelumnya  sehubungan  dengan  materi pokok dalam perjanjian.",
                     "<b>Mengikat  dan  konklusif</b>:  Anda  mengakui  dan menyetujui bahwa setiap catatan (termasuk catatan dari setiap percakapan telepon terkait dengan Layanan, jika ada) dikelola oleh kami atau penyedia layanan kami yang berhubungan dengan atau yang berhubungan dengan Platform dan Layanan bersifat mengikat  dan  konklusif  pada  Anda  untuk  semua tujuan apapun dan menjadi bukti dari setiap informasi  dan/atau  data  yang  dikirimkan  antara kami dan Anda. Anda setuju bahwa semua catatan tersebut  diterima  sebagai  bukti  dan  bahwa  Anda tidak akan menantang atau membantah diterimanya, keandalan, akurasi atau keaslian catatan tersebut dengan alasan karena catatan tersebut  dalam  bentuk  elektronik  atau  output  dari sistem computer dan dengan ini Anda mengabaikan hak-hak anda terhadap hal-hal tersebut.",
                     "<b>Subkontraktor dan delegasi</b>: Kami berhak untuk mendelegasikan atau melakukan sub-kontrak kinerja dari setiap fungsi kami sehubungan dengan Platform dan/atau Jasa dan berhak untuk menggunakan penyedia layanan, subkontraktor dan/atau agen seperti sewajarnya dalam pandangan kami.",
-                    "<b>Pengalihan</b>: Anda tidak dapat mengalihkan hak dan kewajiban Anda atas Syarat & Ketentuan Penggunaan  tanpa  izin  tertulis  sebelumnya  dari kami."
+                    "<b>Pengalihan</b>: Anda tidak dapat mengalihkan hak dan kewajiban Anda atas Syarat &amp; Ketentuan Penggunaan  tanpa  izin  tertulis  sebelumnya  dari kami."
                 ]
             },
             "tunes" : {
