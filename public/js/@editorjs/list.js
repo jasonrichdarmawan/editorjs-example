@@ -255,7 +255,7 @@
     function (e, t, n) {
       (t = n(3)(!1)).push([
         e.i,
-        ".cdx-list {\n    margin: 0;\n    padding-left: 40px;\n    outline: none;\n}\n\n    .cdx-list__item {\n        padding: 5.5px 0 5.5px 3px;\n        line-height: 1.6em;\n    }\n\n    .cdx-list--unordered {\n        list-style: disc;\n    }\n\n    .cdx-list--ordered {\n        list-style: decimal;\n    }\n\n    .cdx-list--ordered--lower-alpha {\n        list-style: lower-alpha;\n    }\n\n    .cdx-list-settings {\n        display: flex;\n    }\n\n    .cdx-list-settings .cdx-settings-button {\n            width: 50%;\n        }\n",
+        ".cdx-list {\n    margin: 0;\n    padding-left: 40px;\n    outline: none;\n}\n\n    .cdx-list__item {\n        padding: 5.5px 0 5.5px 3px;\n        line-height: 1.6em;\n    }\n\n    .cdx-list--unordered {\n        list-style: disc;\n    }\n\n    .cdx-list--ordered {\n        list-style: decimal;\n    }\n\n    .cdx-list--ordered--lower-alpha {\n        list-style: lower-alpha;\n    }\n\n    .cdx-list--ordered--lower-alpha--round-bracket {\n        list-style-type: none;\n counter-reset: item;\n padding: 0;\n margin: 0;\n    }\n\n    .cdx-list--ordered--lower-alpha--round-bracket li {\n counter-increment: item;\n display: table-row;\n padding-left: 1rem;\n }\n\n    .cdx-list--ordered--lower-alpha--round-bracket li:before {\n content: \"(\" counter(item, lower-alpha) \")\";\n display: table-cell;\n padding-right: 0.5rem;\n }\n\n    .cdx-list--ordered--lower-roman--round-bracket {\n        list-style-type: none;\n counter-reset: item;\n padding: 0;\n margin: 0;\n    }\n\n    .cdx-list--ordered--lower-roman--round-bracket li {\n counter-increment: item;\n display: table-row;\n padding-left: 1rem;\n }\n\n    .cdx-list--ordered--lower-roman--round-bracket li:before {\n content: \"(\" counter(item, lower-roman) \")\";\n display: table-cell;\n padding-right: 0.5rem;\n }\n\n    .cdx-list-settings {\n        display: flex;\n    }\n\n    .cdx-list-settings .cdx-settings-button {\n            width: 50%;\n        }\n",
         "",
       ]),
         (e.exports = t);
@@ -447,6 +447,18 @@
                 icon: '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24"><line x1="12" x2="19" y1="7" y2="7" stroke="currentColor" stroke-linecap="round" stroke-width="2"/><line x1="12" x2="19" y1="12" y2="12" stroke="currentColor" stroke-linecap="round" stroke-width="2"/><line x1="12" x2="19" y1="17" y2="17" stroke="currentColor" stroke-linecap="round" stroke-width="2"/><path stroke="currentColor" stroke-linecap="round" stroke-width="2" d="M7.79999 14L7.79999 7.2135C7.79999 7.12872 7.7011 7.0824 7.63597 7.13668L4.79999 9.5"/></svg>',
                 default: "ordered-lower-alpha" === i.defaultStyle || !0,
               },
+              {
+                name: "ordered-lower-alpha-round-bracket",
+                label: this.api.i18n.t("Ordered lower alpha round bracket"),
+                icon: '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24"><line x1="12" x2="19" y1="7" y2="7" stroke="currentColor" stroke-linecap="round" stroke-width="2"/><line x1="12" x2="19" y1="12" y2="12" stroke="currentColor" stroke-linecap="round" stroke-width="2"/><line x1="12" x2="19" y1="17" y2="17" stroke="currentColor" stroke-linecap="round" stroke-width="2"/><path stroke="currentColor" stroke-linecap="round" stroke-width="2" d="M7.79999 14L7.79999 7.2135C7.79999 7.12872 7.7011 7.0824 7.63597 7.13668L4.79999 9.5"/></svg>',
+                default: "ordered-lower-alpha-round-bracket" === i.defaultStyle || !0,
+              },
+              {
+                name: "ordered-lower-roman-round-bracket",
+                label: this.api.i18n.t("Ordered lower roman round bracket"),
+                icon: '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24"><line x1="12" x2="19" y1="7" y2="7" stroke="currentColor" stroke-linecap="round" stroke-width="2"/><line x1="12" x2="19" y1="12" y2="12" stroke="currentColor" stroke-linecap="round" stroke-width="2"/><line x1="12" x2="19" y1="17" y2="17" stroke="currentColor" stroke-linecap="round" stroke-width="2"/><path stroke="currentColor" stroke-linecap="round" stroke-width="2" d="M7.79999 14L7.79999 7.2135C7.79999 7.12872 7.7011 7.0824 7.63597 7.13668L4.79999 9.5"/></svg>',
+                default: "ordered-lower-roman-round-bracket" === i.defaultStyle || !0,
+              },
             ]),
             (this._data = {
               style: this.settings.find(function (e) {
@@ -558,6 +570,14 @@
                         break;
                     case "ordered-lower-alpha":
                         t = this.CSS.wrapperOrderedLowerAlpha;
+                        n = "ol";
+                        break;
+                    case "ordered-lower-alpha-round-bracket":
+                        t = this.CSS.wrapperOrderedLowerAlphaRoundBracket;
+                        n = "ol";
+                        break;
+                    case "ordered-lower-roman-round-bracket":
+                        t = this.CSS.wrapperOrderedLowerRomanRoundBracket;
                         n = "ol";
                         break;
                     default:
@@ -685,6 +705,8 @@
                     wrapper: "cdx-list",
                     wrapperOrdered: "cdx-list--ordered",
                     wrapperOrderedLowerAlpha: "cdx-list--ordered--lower-alpha",
+                    wrapperOrderedLowerAlphaRoundBracket: "cdx-list--ordered--lower-alpha--round-bracket",
+                    wrapperOrderedLowerRomanRoundBracket: "cdx-list--ordered--lower-roman--round-bracket",
                     wrapperUnordered: "cdx-list--unordered",
                     item: "cdx-list__item",
                   };

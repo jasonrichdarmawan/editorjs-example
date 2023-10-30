@@ -1,0 +1,816 @@
+{
+    "time" : 1698661544300,
+    "blocks" : [
+        {
+            "id" : "5TGSkWFe1G",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Selamat datang di Lexicon Setiap orang atau entitas yang ingin menggunakan Lexicon atau mengakses harus menyetujui syarat-syarat dan ketentuan-ketentuan Pengguna (“Perjanjian”) ini.<br>",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "I3ZOBR1S1n",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>Silahkan membaca Syarat &amp; Ketentuan Penggunaan ini dengan seksama karena dapat berdampak kepada hak dan kewajiban Pengguna di bawah hukum</b>. Syarat Penggunaan ini mengatur penggunaan dan akses Platform (didefinisikan di bawah) dan penggunaan layanan (didefinisikan di bawah).",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "veLOiHiMRr",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Dengan mendaftarkan diri untuk menggunakan aplikasi  ini,  Anda  (1)  baik  mewakili  diri  Anda sendiri  atau  sebagai  perwakilan  dari  entitas  yang Anda wakilkan, setuju untuk mengikatkan diri pada segala  syarat  dan  ketentuan  yang  terdapat  pada perjanjian  ini;  dan  (2)  menyatakan  dan  menjamin bahwa Anda secara nyata menyetujui untuk terikat pada perjanjian ini.&nbsp;",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "5Qy3SFKQB8",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "J<b>ika Anda tidak menyetujui Syarat &amp; Ketentuan Penggunaan ini, dilarang mengakses dan/atau menggunakan Platform maupun Layanan  ini.  PT  Indexa  Imaji  Hukum(“kami”, “Lexicon”)  dan  semua  pihak  terafiliasi  berhak untuk melakukan penghentian, pembatasan, pemblokiran dan usaha-usaha perlindungan lainnya secara sepihak terhadap siapapun yang dinilai  tidak  memenuhi  Syarat  &amp;  Ketentuan Penggunaan terhadap segala bentuk aset digital dan elektronik PT Indexa Imaji Hukum beserta semua pihak terafiliasi.</b>",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "_6SIvUqYwN",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Terdapat  beberapa  area  yang  membutuhkan  akses atas password dan penggunaan password dilindungi dan/atau area tertentu yang dilindungi pada Platform  dan/atau  penggunaan  Layanan  dibatasi hanya  untuk  Pengguna  yang  memiliki  akun  saja.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "LMFBggTWwt",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Anda tidak diperbolehkan memperoleh atau berusaha memperoleh akses tidak sah ke area Platform dan/atau Layanan ini, atau ke area informasi lain yang dilindungi, dengan cara melanggar hukum/illegal dan/atau apapun yang tanpa izin penggunaan khusus oleh kami. Pelanggaran terhadap ketentuan ini merupakan pelanggaran yang didasarkan pada hukum Indonesia  dan/atau  undang-undang  dan  peraturan yang  berlaku  sesuai  domisili  <b>PT  Indexa  Imaji Hukum</b> dan/atau dimana semua anak perusahaannya yang terkait berada.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "TOSJ8tazf4",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>Jika  Anda  berusia  di  bawah  18  tahun</b>:  Anda harus  memperoleh  persetujuan  dari  orang  tua  atau wali Anda, penerimaan atau persetujuan orang tua/wali terhadap Persyaratan Penggunaan ini beserta persetujuan mereka untuk mengambil tanggung jawab untuk:",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "wA8xIBjMa1",
+            "type" : "list",
+            "data" : {
+                "style" : "ordered-lower-roman-round-bracket",
+                "items" : [
+                    "tindakan Anda;",
+                    "biaya yang terkait dengan penggunaan setiap Layanan;&nbsp;dan<br>",
+                    "penerimaan dan kepatuhan Anda sesuai dengan Syarat &amp; Ketentuan Penggunaan ini.<br>",
+                    "penggantian kerugian sesuai dengan penyelesaian masalah yang disepakati.<br>"
+                ]
+            },
+            "tunes" : {
+                "alignmentBlockTune" : {
+                    "alignment" : "justify"
+                }
+            }
+        },
+        {
+            "id" : "Xl9EL86UM5",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>A. DEFINISI</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "F2-RzbaMrk",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Kecuali ditentukan lain, istilah berikut akan memiliki arti sebagai berikut dalam Syarat &amp; Ketentuan ini:",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "zekkdaNQeA",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>“Lexicon”</b>, <b>“Kita’</b>, dan <b>“Kami”</b> merujuk kepada <b>[PT Indexa Imaji Hukum]</b>, sebuah Perseroan Terbatasyang didirikan berdasarkan hukum Indonesia dan beralamat di [Jl. Wolter Monginsidi No.71, South Jakarta, DKI Jakarta, Indonesia 12180]",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "bpMcEO911p",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>\"Platform\"</b> berarti:&nbsp;",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "WMJoM4c9Ox",
+            "type" : "list",
+            "data" : {
+                "style" : "ordered-lower-alpha-round-bracket",
+                "items" : [
+                    "web dan/atau versi mobile dari web yang dioperasikan dan/atau dimiliki oleh Indexa yang saat ini terletak di URL berikut:[Lexicon.id];",
+                    "aplikasi mobile yang dibuat dari waktu ke waktu oleh Lexicon, termasuk iOS dan Android.<br>"
+                ]
+            },
+            "tunes" : {
+                "alignmentBlockTune" : {
+                    "alignment" : "justify"
+                }
+            }
+        },
+        {
+            "id" : "1Tj9wa0-1m",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>\"Lexicon Indemnitees\"</b> berarti Lexicon, afiliasinya dan semua yang masing-masing petugas, karyawan, direktur, agen, kontraktor dan penerima.&nbsp;",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "oEh-i94sww",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>“Syarat  &amp;  ketentuan”</b>  adalah  perjanjian  antara Pengguna dan Lexicon yang berisikan seperangkat peraturan yang mengatur hak, kewajiban, tanggung jawab pengguna dan Lexicon, serta tata cara penggunaan sistem layanan Lexicon.&nbsp;",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "e9oHLvNnqE",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>\"Kebijakan Privasi\"</b> berarti kebijakan privasi yang ditetapkan di [https://landing.lexicon.id/privacy-policy].&nbsp;",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "-fkrtvaFpI",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>\"Hari Kerja\"</b> berarti hari (tidak termasuk hari Sabtu  dan  Minggu)  dimana  bank  umum  terbuka untuk bisnis di Indonesia.&nbsp;",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "WtPBoeDumE",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>“Pengguna”</b> atau <b>“Anda”</b> berarti  Individu berusia di  atas  18  atau  yang  di  bawah  18  namun  dengan perwakilan  dan/atau  pengawasan  orang  tua  atau wali yang sah yang menggunakan layanan Lexicon, termasuk namun tidak terbatas pada pihak lain yang sekedar berkunjung ke platform Lexicon.&nbsp;",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "6RiYBMK5NA",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>“Kekayaan  Intelektual\"</b>  berarti  semua  hak  cipta, paten,  inovasi  utilitas,  merek  dagang  dan  merek layanan, indikasi geografis, nama domain, hak desain  tata  letak,  desain  terdaftar,  hak  desain,  hak database, nama dagang atau bisnis, hak melindungi rahasia dagang dan rahasia informasi, hak melindungi itikad baik dan reputasi, dan semua hak kepemilikan  yang  sama  atau  terkait  lainnya  dan semua aplikasi yang sama, baik saat ada atau dibuat di  masa  depan,  di  mana  saja  di  dunia,  apakah terdaftar atau tidak, dan semua manfaat, hak istimewa, hak untuk menuntut, memulihkan kerusakan  dan  mendapatkan  bantuan  atau  solusi lainnya  untuk  ,  pelanggaran  yang  terjadi  di  masa sekarang atau masa depan atau masa yang lampau, penyalahgunaan atau pelanggaran hak-hak tersebut di atas.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "W6dRm8ZCWA",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>\"Kerugian\"</b> berarti semua penalti, kerugian, jumlah penyelesaian,  biaya  (termasuk  biaya  hukum  dan&nbsp;biaya pengacara), biaya, pengeluaran, aksi, proses, klaim, tuntutan dan kewajiban lainnya, yang dapat di duga atau tidak.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "hc9C6ssYqA",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>\"Material\"</b> berarti, secara kolektif, semua halaman web  pada  Platform,  termasuk  informasi,  gambar, link,  suara,  gambar,  video,  software,  aplikasi  dan bahan  lain  yang  ditampilkan  atau  tersedia  pada Platform  dan  fungsi  atau  layanan  yang  disediakan di Platform.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "PRMjrsC9mM",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>\"Username\"</b> mengacu pada nama identifikasi login unik  atau  kode  yang  mengidentifikasi  Pengguna yang memiliki akun di Lexicon.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "1hLdZAiprB",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>\"Password\"</b>  mengacu  pada  password  yang  valid milik Pengguna yang memiliki akun Lexicon yang dapat digunakan dengan Username untuk mengakses Platform dan / atau Layanan terkait.",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "G2NFRpatMq",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>\"Data  Pribadi\"</b>  berarti  data,  apakah  benar  atau tidak, yang dapat digunakan untuk mengidentifikasi, menghubungi atau mencari Anda. Data Pribadi bisa termasuk nama, alamat e-mail,  nomor  telepon  dan  informasi  akun  lainnya yang terikat didalam platform.",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "kjxfrcfV6N",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>\"Materi Terlarang\"</b> berarti setiap informasi, grafis, foto, data dan/atau materi lainnya yang:&nbsp;",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "YOF_j6fLIn",
+            "type" : "list",
+            "data" : {
+                "style" : "ordered",
+                "items" : [
+                    "mengandung  virus  komputer  atau  kode  invasif atau merusak lainnya, program atau makro;<br>",
+                    "melanggar Hak Kekayaan Intelektual kami atau mitra pihak ketiga atau hak kepemilikan lainnya;",
+                    " memfitnah, memfitnah atau mengancam; &nbsp;<br>",
+                    "cabul, pornografi, tidak senonoh, palsu, berunsur penipuan, pencurian, berbahaya atau ilegal berdasarkan hukum yang berlaku; dan/atau<br>",
+                    "isi yang menyinggung atau tidak pantas berdasarkan pendapat kami.<br>"
+                ]
+            },
+            "tunes" : {
+                "alignmentBlockTune" : {
+                    "alignment" : "justify"
+                }
+            }
+        },
+        {
+            "id" : "TheojqZmgE",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>\"Mitra  Pihak  Ketiga\"</b>  berarti  pihak  ketiga  selain Kami yang memiliki hak akses pada Platform untuk memberikan  dan  menjalankan  layanan  yang  telah disepakati dan terverifikasi oleh kami.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "hWuUjeTgTA",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>\"Trademark\"</b> berarti merek dagang, merek layanan,  nama  dagang  dan  logo  yang  digunakan dan ditampilkan pada Platform.&nbsp;",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "N7KDR616uh",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>\"Layanan\"</b>  berarti  layanan,  informasi  dan  fungsi yang disediakan oleh kami di Platform.&nbsp;",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "Z-HTNiTXQd",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>\"Media  Sosial\"</b>  berarti  setiap  media  social  seperti “facebook,  line, X, whatsapp, instagram” yang digunakan oleh kami dalam menyebarluarkan informasi terkait dengan Platform.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "WA00Vzygw3",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "2. Intepretasi : Setiap acuan pada Syarat &amp; Ketentuan Penggunaan untuk setiap ketentuan harus  ditafsirkan  sebagai  acuan  bahwa  ketentuan tersebut  sebagaimana  telah  diubah,  diberlakukan kembali atau diperpanjang pada waktu yang relevan. Dalam Perjanjian, setiap kali kata \"termasuk\" digunakan, akan dianggap sebagai \"tanpa batasan\". Setiap Judul tidak dijadikan interpretasi atas Syarat &amp; Ketentuan Pengguna ini, jika  terjadi  konflik  atau  inkonsistensi  antara  dua atau  lebih  ketentuan  dalam  Syarat  &amp;  Ketentuan Penggunaan ini, apakah ketentuan tersebut tercantum dalam dokumen yang sama atau berbeda, maka Indexa akan menentukan ketentuan yang berlaku terhadap konflik atau inkonsistensi tersebut.&nbsp;",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "dhISVEahp4",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>B. PENGGUNAAN UMUM &amp; AKSES PLATFORM</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "Iyf4m-E7rF",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "2.1. Anda setuju untuk mematuhi setiap dan semua pedoman, pemberitahuan, aturan operasi dan kebijakan dan instruksi yang berkaitan dengan penggunaan  Layanan  dan/atau  akses  ke  Platform, serta  setiap  perubahan-nya,  yang  dikeluarkan  oleh kami,  dari  waktu  ke  waktu.  Kami  berhak  untuk merevisi  pedoman,  pemberitahuan,  aturan  operasi, kebijakan  dan  instruksi  sewaktu-waktu  dan  Anda dianggap mengetahui dan tunduk oleh setiap perubahan tersebut di atas setelah ada-nya pemberitahuan atau publikasi atas perubahan tersebut  di  Platform  atau  pemberitahuan  melalui media lain.&nbsp;",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "edc8WuaIzX",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "2.2 Kegiatan  terlarang:  Anda  setuju  dan  TIDAK akan melakukan :&nbsp;",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "XfDGRMMg8i",
+            "type" : "list",
+            "data" : {
+                "style" : "ordered-lower-alpha",
+                "items" : [
+                    "Berpura-pura sebagai orang lain/entitas, atau memberikan keterangan yang salah,  atau  mengaku  sebagai  orang  lain  atau kelompok tertentu;&nbsp;",
+                    "Menggunakan Platform atau&nbsp;Layanan untuk tujuan yang melanggar hukum (illegal); <br>",
+                    "Berusaha  untuk  mendapatkan  akses secara tidak sah atau mengganggu atau mengacaukan  sistem  komputer  atau  jaringan yang terhubung dengan Platform atau Layanan;<br>",
+                    "mengumumkan (posting), mempromosikan atau mengirimkan Materi Terlarang apapun melalui Platform atau Layanan;<br>",
+                    "mengganggu pemanfaatan dan pemakaian dari Platform atau Layanan<br>",
+                    "menggunakan atau unggah atau meng-upload  perangkat  lunak  atau  material  yang mengandung  /  dicurigai  mengandung  virus, komponen merusak, kode berbahaya atau komponen berbahaya dengan cara apapun yang  dapat  merusak  data  atau  mengakibatkan kerusakan Platform atau mengganggu pengoperasian  komputer  Pengguna  lain  atau perangkat mobile atau Platform atau Layanan; dan",
+                    "menggunakan Platform atau Layanan diluar dari aturan / kebijakan penggunaan setiap jaringan komputer yang terhubung, setiap standar Internet yang berlaku dan hukum yang berlaku lainnya.&nbsp;<br>"
+                ]
+            },
+            "tunes" : {
+                "alignmentBlockTune" : {
+                    "alignment" : "justify"
+                }
+            }
+        },
+        {
+            "id" : "rcCf2CrGmb",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "3. Ketersediaan Platform dan Layanan: Kami dapat meningkatkan, memodifikasi, menghentikan sementara, menghentikan penyediaan, menghapus, baik secara keseluruhan atau sebagian dari Platform atau Layanan, tanpa memberikan alasan &amp; pemberitahuan sebelumnya, dan tidak bertanggung jawab  jika  peningkatan,  modifikasi,  suspensi  atau penghapusan  tersebut  mencegah  Anda  mengakses Platform atau bagian dari Layanan.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "Q7-PNF4RuB",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "4. Kami berhak, tetapi tidak berkewajiban untuk: ",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "QhDtZJr8n5",
+            "type" : "list",
+            "data" : {
+                "style" : "ordered-lower-alpha-round-bracket",
+                "items" : [
+                    "memantau, menyaring atau mengontrol setiap kegiatan, isi atau materi pada Platform dan/atau melalui Layanan. Atas kebijakan kami sendiri, kami dapat menyelidiki setiap pelanggaran terhadap syarat dan ketentuan yang tercantum di sini dan dapat mengambil tindakan apapun yang dianggap sesuai atau tepat;",
+                    "mencegah atau membatasi akses Pengguna untuk Platform dan/atau Jasa;<br>",
+                    "melaporkan kegiatan yang dicurigai sebagai pelanggaran terhadap hukum yang berlaku, undang-undang atau peraturan kepada pihak yang berwenang serta bekerja sama dengan pihak berwenang tersebut; dan/atau<br>",
+                    "meminta informasi dan data dari Anda sehubungan dengan penggunaan Layanan  dan/atau  akses  Platform  setiap  saat, dan  sebagai  pelaksanaan  hak  kami  jika  Anda menolak  untuk  memberikan/mengungkapkan informasi/data tersebut, atau jika Anda memberikan informasi tidak akurat, menyesatkan, penipuan data dan/atau informasi atau jika kami memiliki alasan yang cukup  mencurigai  Anda  telah  menyediakan informasi tidak akurat, menyesatkan atau penipuan data dan/atau informasi.<br>"
+                ]
+            },
+            "tunes" : {
+                "alignmentBlockTune" : {
+                    "alignment" : "justify"
+                }
+            }
+        },
+        {
+            "id" : "ShhqYlId-A",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "5. Penggunaan  Anda  atas  Layanan  dan/atau  akses Anda  ke  Platform  juga  tunduk  pada  Kebijakan Privasi sebagaimana tercantum di [https://landing.lexicon.id/privacy-policy]",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "8bHiYfhOAj",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "6.  Selain Syarat Penggunaan ini, penggunaan aspek-aspek tertentu dari Materi dan Layanan, lebih komprehensif  atau  versi  terbaru  dari  Materi  yang ditawarkan  oleh  kami  atau  sub-kontraktor  yang ditunjuk, dapat dikenakan syarat dan ketentuan tambahan, yang akan berlaku sepenuhnya.&nbsp;",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "HmA9o2npzA",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>C. PENGGUNAAN LAYANAN</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "im1sx4PQkb",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "1. Selain dari semua syarat dan ketentuan di Syarat &amp; Ketentuan Penggunaan ini, ketentuan dalam Bagian C merupakan ketentuan – ketentuan tambahan  yang  spesifik  berlaku  atas  penggunaan Anda atas Layanan.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "TYI2jezywT",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "2.  Penggunaan  Layanan  terbatas  pada  Pengguna yang sah yang berada pada usia 18 Tahun dan yang memiliki  kapasitas  hukum  untuk  masuk/membuat kesepakatan/perjanjian dan mengikatkan diri berdasarkan  hukum  yang  berlaku.  Pengguna  yang&nbsp;melanggar syarat dan ketentuan yang tercantum di sini serta Pengguna yang ditangguhkan secara permanen  atau  sementara  dari  penggunaan  setiap Layanan tidak diperbolehkan menggunakan Layanan  meskipun  mereka  memenuhi  persyaratan Klausul 2 Bagian C. ",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "RUNDLA117L",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "3. Dengan ini Anda setuju:",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "X7n7M2AcDY",
+            "type" : "list",
+            "data" : {
+                "style" : "ordered-lower-alpha-round-bracket",
+                "items" : [
+                    "untuk selalu mengakses dan/atau menggunakan Layanan hanya untuk tujuan yang  tidak  melanggar  hukum,  dan  dengan cara yang sah dan selanjutnya setuju untuk melakukan kegiatan yang berkaitan dengan Layanan dengan itikad baik; dan",
+                    "memastikan  bahwa  setiap  informasi  atau data  yang  Anda  berikan/umumkan/posting atau yang dimunculkan di Platform sehubungan dengan Layanan adalah akurat dan  setuju  untuk  bertanggung  jawab  atas informasi dan data tersebut."
+                ]
+            },
+            "tunes" : {
+                "alignmentBlockTune" : {
+                    "alignment" : "justify"
+                }
+            }
+        },
+        {
+            "id" : "LfQnKjFihc",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "4.  Kami selalu berusaha untuk memberikan deskripsi  yang  akurat  tentang  informasi  dan  saran yang diberikan melalui platform, namun tidak bertanggungjawab  atas  jaminan  bahwa  deskripsi tersebut akurat, terkini atau bebas dari kesalahan.&nbsp;",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "aAG_kCmz9w",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "5.  Dengan ini Anda mengetahui bahwa atas keberadaan pihak – pihak lain selain Lexicon (Mitra Pihak Ketiga) yang melakukan kerjasama di Platform.  Kerjasama tersebut dapat di tampilkan di Platform  dan/atau  media  sosial  oleh  Lexicon  atau Mitra Pihak Ketiga.&nbsp;&nbsp;",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "W8IEW1_A_4",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>D. PENGGUNA DENGAN AKUN LEXICON</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "hxkFZKHkbW",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "1.  Layanan  –  layanan  tertentu  yang  tersedia  di Platform memerlukan pembuatan akun atau memerlukan Anda untuk memberikan Data Pribadi Anda.  Jika  Anda  ingin  membuat  akun  Lexicon, Username dan Password dapat berupa:&nbsp;",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "Dpt4ZWftLs",
+            "type" : "list",
+            "data" : {
+                "style" : "ordered-lower-roman-round-bracket",
+                "items" : [
+                    "ditentukan dan diberikan oleh kami kepada Anda; atau",
+                    "Anda tentukan/berikan dan diterima oleh kami berdasarkan  kebijakan  mutlak  kami  sehubungan dengan  penggunaan  Layanan  dan/atau  akses  ke&nbsp;Platform yang relevan."
+                ]
+            },
+            "tunes" : {
+                "alignmentBlockTune" : {
+                    "alignment" : "justify"
+                }
+            }
+        },
+        {
+            "id" : "ChhqUw6yGc",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Kami sewaktu waktu dengan kebijakan kami, meminta Anda memperbaharui Data Pribadi  Anda atau dapat membatalkan Username dan/atau Password tanpa pemberitahuan terlebih dahulu dan tidak  bertanggung  jawab  atas  Kerugian  (apabila ada) yang diderita oleh Anda, atau disebabkan oleh Anda, atau yang timbul dari pembatalan, atau sehubungan dengan pembatalan, atau dari dasar/alasan permintaan pembatalan atau pembatalan tersebut. Anda dengan ini setuju untuk merubah/memperbaharui Password Anda secara berkala dan untuk menjaga Username dan Password  secara  rahasia  dan  bertanggung  jawab atas keamanan  akun Anda dan bertanggung jawab atas pengungkapan atau penggunaan (apakah penggunaan tersebut diijinkan atau tidak) dari Username  dan/atau  password  Anda.  Anda  harus segera  hubungi  kami  jika  Anda  mengetahui  atau memiliki alasan untuk mencurigai bahwa kerahasiaan Username dan/atau Password Anda terganggu  atau  jika  terjadi  penggunaan  yang  tidak sah  dari  Username  dan/atau  Password  atau  jika Data Pribadi Anda butuh diperbaharui.&nbsp;",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "ZTqOS8Eu3Y",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "2.  Anda setuju dan mengetahui bahwa setiap penggunaan  Layanan  dan/atau  akses  ke  Platform dan informasi, data atau komunikasi merujuk Username dan Password Anda akan dianggap, sebagai:",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "HLihpDXdDI",
+            "type" : "list",
+            "data" : {
+                "style" : "ordered-lower-alpha",
+                "items" : [
+                    "akses  terhadap  Platform  dan/atau  penggunaan Layanan oleh Anda; atau&nbsp;",
+                    "Posting, pengumuman/pengungkapan, pemberian:  informasi,  data  atau  komunikasi,  yang sah dikeluarkan oleh Anda.&nbsp;<br>"
+                ]
+            },
+            "tunes" : {
+                "alignmentBlockTune" : {
+                    "alignment" : "justify"
+                }
+            }
+        },
+        {
+            "id" : "DSlrZ4xQLZ",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "3. Dengan ini Anda setuju untuk tunduk atas akses Platform  dan/atau  penggunaan  Layanan  (apakah akses  atau  penggunaan  tersebut  dengan  ijin  Anda atau  tidak)  dan  Anda  setuju  bahwa  kami  berhak (tetapi tidak berkewajiban) untuk berpegangan dan menganggap bahwa penggunaan atas nama Username dan/atau Password Anda adalah dilakukan  oleh  Anda  sendiri  (sepanjang  tidak  ada&nbsp;laporan pemakaian tidak sah sebelumnya atas akun Anda yang telah terbukti) dan berhak menyimpulkan bahwa pengunaan/kegiatan tersebut dilakukan atau dikirimkan oleh Anda dan meminta pertanggungjawaban Anda. Anda selanjutnya setuju dan mengakui bahwa Anda terikat dan bertanggungjawa  sepenuhnya  mengganti  atau  atas kerugian yang timbul disebabkan setiap penggunaan setiap Layanan dan/atau akses ke Platform atas nama Username dan Password Anda. ",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "Q7YkLec8ka",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>E. KEKAYAAN INTELEKTUAL</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "2_Qhp1SPmC",
+            "type" : "list",
+            "data" : {
+                "style" : "ordered",
+                "items" : [
+                    "Kekayaan Intelektual (HKI) di dalam atau menuju  kepada  Platform  serta  atas  setiap  Materi merupakan  milik,  berlisensi    atau  dikuasai  oleh kami, atau pemberi lisensi kami atau penyedia layanan kami. Kami berhak untuk menjaga Kekayaan Intelektual sepenuhnya demi hukum.",
+                    "Tidak ada bagian-bagian dari Platform, Material dan informasi social media yang dapat direproduksi, direkayasa, dipisah dari susunan (decompiled), dibongkar, dipisahkan, diubah, didistribusikan, di-publish ulang (republished), ditampilkan, disiarkan, ditautkan (hyperlinked), direfleksikan (mirrored), disusun (framed), ditransfer  atau  dikirim  dengan  cara  apapun  atau disimpan/dipasang  dalam  suatu  sistem  pencarian informasi  atau  dipasang  pada  suatu  server,  sistem atau  peralatan,  tanpa  izin  tertulis  sebelumnya  dari kami atau dari pemilik hak cipta yang bersangkutan.  Sesuai  dengan  Poin  E.2,  izin  hanya akan  diberikan  kepada  Anda  untuk  mengunduh, mencetak atau menggunakan Material untuk penggunaan pribadi dan nonkomersial, dengan ketentuan  Anda  tidak  mengubah  Material,  serta kami  atau  pemilik  Hak  Cipta  yang  bersangkutan adalah  pemegang  semua/tiap  Hak  Cipta  dan  Hak Cipta  kepemilikan  lainnya  yang  terkandung  pada Material.&nbsp;<br>",
+                    "Merek  Dagang  yang  terdaftar  dan  yang  tidak terdaftar atas nama kami atau atas nama mitra pihak ketiga.",
+                    "Tidak ada pada Platform dan Syarat Penggunaan ini yang bisa ditafsirkan sebagai pemberian, secara tersirat  atau  tidak,  atau  di  tafsirkan  sebagai  lisensi atau  hak  untuk  menggunakan  (termasuk  atas  meta tag  atau  \"hot\"  link  ke  website  lain)  setiap  Merek Dagang yang ditampilkan pada Layanan, tanpa izin tertulis dari kami atau pemilik  Merek Dagang lain yang berlaku."
+                ]
+            },
+            "tunes" : {
+                "alignmentBlockTune" : {
+                    "alignment" : "justify"
+                }
+            }
+        },
+        {
+            "id" : "LuEWZY8F07",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>F. BATASAN ATAS TANGGUNG JAWAB DAN KEWAJIBAN</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "VMOYAWeQf6",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "1. Layanan,  Platform  dan  Material  yang  tersedia adalah berbasis \"sebagaimana adanya\" dan \"sebagaimana tersedia\". Semua data dan/atau informasi yang terkandung dalam Platform, Layanan  atau  Material  yang  disediakan  ditujukan sebagai  informasi  saja.  Tidak  ada  pernyataan  atau jaminan apapun, yang tersirat, tersurat maupun diatur,  termasuk  jaminan  non-pelanggaran  (non-infringement) atas pihak ketiga yang meliputi: hak, kepemilikan, kualitas yang memuaskan atau kesesuaian untuk tujuan tertentu, sehubungan dengan  Platform,  Layanan  atau  Material.  Tanpa mengesampingkan ketentuan lain yang berlaku, kami tidak menjamin:",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "OK9Gj7QNEn",
+            "type" : "list",
+            "data" : {
+                "style" : "ordered-lower-alpha-round-bracket",
+                "items" : [
+                    "akurasi, ketepatan waktu, kecukupan,  nilai  komersial  atau  kelengkapan dari semua data dan/atau informasi yang terkandung dalam Platform, Layanan atau Material;",
+                    "bahwa Platform, Layanan atau bahwa  setiap  Material  selalu  tersedia  tanpa gangguan, aman atau bebas dari kesalahan atau kelalaian,  atau  setiap  cacat  yang  ditemukan akan langsung diperbaiki;",
+                    "bahwa Platform, Layanan atau Material selalu bebas dari virus komputer atau kode berbahaya lainnya, merugikan, merusak, agen, program atau macro; dan&nbsp;",
+                    "keamanan atas informasi apapun yang dikirim oleh Anda atau untuk Anda melalui Platform atau Layanan, dan dengan ini Anda menerima risiko bahwa informasi apapun  yang  dikirim  atau  diterima  melalui Layanan atau Platform dapat diakses oleh pihak ketiga yang tidak sah dan/atau diungkapkan oleh kami atau petugas, karyawan atau agen kepada pihak ketiga yang mengaku  Anda  atau  mengaku  bertindak  di bawah otoritas Anda. Transmisi melalui Internet  dan  surat  elektronik  dapat  dikenakan gangguan, transmisi pemadaman, tertunda transmisi karena lalu lintas internet atau transmisi  data  yang  tidak  benar  karena  sifat publik dari internet.&nbsp;<br>"
+                ]
+            },
+            "tunes" : {
+                "alignmentBlockTune" : {
+                    "alignment" : "justify"
+                }
+            }
+        },
+        {
+            "id" : "k9hoNtmgPt",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "2. Lexicon  tidak  bertanggung  jawab  kepada  Anda untuk  Kerugian  apapun  atau  apapun  penyebabnya (dalam bentuk apapun) yang timbul secara langsung atau tidak langsung yang terkait atas:&nbsp;",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "kByeX3I23X",
+            "type" : "list",
+            "data" : {
+                "style" : "ordered-lower-alpha-round-bracket",
+                "items" : [
+                    "akses, penggunaan dan/atau ketidakmampuan untuk menggunakan Platform atau Layanan;",
+                    "ketergantungan Anda (mengandalkan) pada data atau informasi yang tersedia melalui Platform dan/atau melalui Layanan. Anda tidak seharusnya bertindak langsung  terhadap  data  atau  informasi  tanpa terlebih dahulu secara independen/mandiri memverifikasi isinya;<br>",
+                    "sistem, server atau koneksi yang gagal, kesalahan, kelalaian, gangguan, keterlambatan dalam transmisi, virus komputer  atau  kode  berbahaya,  merugikan, merusak lainnya, agent program atau macros; dan<br>",
+                    "setiap penggunaan atau akses ke website  lain  atau  halaman  web  yang  ter-link dengan  Platform  atau  terdapat  link  –nya  di Platform,  walaupun  jika  kami  atau  petugas kami atau agen atau karyawan kami telah diberitahukan, atau mungkin telah diantisipasi, atas kemungkinan yang sama.<br>"
+                ]
+            },
+            "tunes" : {
+                "alignmentBlockTune" : {
+                    "alignment" : "justify"
+                }
+            }
+        },
+        {
+            "id" : "6YrWvozKic",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "3.  Setiap risiko kesalahpahaman, kesalahan, kerusakan,  biaya  atau  Kerugian  yang  diakibatkan dari penggunaan Platform, adalah sepenuhnya risiko  Anda  sendiri  dan  Dooti  tidak  bertanggung jawab untuk itu.&nbsp;",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "IiUIy18Xfm",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>G.  HYPERLINK, PERINGATAN DAN IKLAN&nbsp;</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "jO3GkgrCHP",
+            "type" : "list",
+            "data" : {
+                "style" : "ordered",
+                "items" : [
+                    "Untuk kemudahan Anda, kami dapat mencantumkan  hyperlink  ke  situs-situs  lain  atau konten  di  Internet  yang  dimiliki  atau  dioperasikan oleh mitra pihak ketiga. Situs yang terhubung atau konten tidak di bawah kendali kami dan kami tidak bertanggung jawab atas kesalahan, kelalaian, penundaan, pencemaran nama baik, fitnah, kebohongan, kecabulan, pornografi, tidak senonoh, ketidaktepatan atau materi yang lain yang terkandung dalam isi, atau konsekuensi mengakses, setiap  situs  web  terkait.  Setiap  hyperlink  ke  situs-situs lain atau konten bukanlah merupakan bentuk dukungan atau verifikasi situs atau konten tersebut dan Anda setuju bahwa akses Anda ke atau penggunaan situs yang terhubung atau konten sepenuhnya menjadi resiko Anda sendiri.",
+                    "Kami  dapat  melampirkan  banners,  java  applet, java script dan/atau bahan lain pada Platform untuk tujuan advertising atau iklan produk dan/atau layanan kami atau iklan/advertisingproduk/layanan Mitra Pihak Ketiga kami. Untuk menghindari keraguan, Anda tidak mempunyai hak untuk mendapatkan  pembayaran,  biaya  dan/atau  komisi sehubungan dengan iklan tersebut atau materi promosi lainnya.&nbsp;<br>"
+                ]
+            },
+            "tunes" : {
+                "alignmentBlockTune" : {
+                    "alignment" : "justify"
+                }
+            }
+        },
+        {
+            "id" : "30fZ_gzNKC",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>H. SUBMISI DAN INFORMASI ANDA&nbsp;</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "XSr7EKH_Ih",
+            "type" : "list",
+            "data" : {
+                "style" : "ordered",
+                "items" : [
+                    "Anda memberikan kami ijin/lisensi noneksklusif untuk  menggunakan  materi  atau  informasi  yang Anda kirimkan ke Platform dan/atau berikan kepada  kami,  termasuk  tetapi  tidak  terbatas  pada, pemberian informasi penggunaan aplikasi, pertanyaan,  ulasan,  komentar,  dan  saran  (secara kolektif disebut \"Submisi\"). Ketika Anda memposting Submisi, Anda juga memberikan kami hak untuk menggunakan nama yang Anda kirimkan atau Username sehubungan dengan ulasan tersebut, komentar,  atau  konten  lainnya.  Anda  tidak  akan menggunakan  alamat  e-mail  palsu,  berpura-pura menjadi orang lain selain diri sendiri atau&nbsp;menyesatkan kita atau mitra pihak ketiga mengenai asal Submissions apapun. Kita mungkin, tapi tidak diwajibkan  untuk,  mempublikasikan,  menghapus atau mengedit Submisi Anda.",
+                    "Anda menyetujui dan mengesahkan penggunaan oleh kami dari setiap informasi yang diberikan oleh Anda (termasuk Data Pribadi) untuk keperluan pengiriman  informasi  dan  promosi  e-mail  kepada Anda. Persetujuan Anda atas ketentuan Klausul ini merupakan persetujuan Anda yang bertujuan untuk perlindungan  dari  spam  (baik  di  Indonesia  atau  di tempat lain). Anda dapat memilih untuk tidak menerima e-mail promosi dengan mengklik hyperlink  yang  tersedia  di  promosi  e-mail  untuk menyatakan bahwa Anda akan berhenti berlangganan promosi e-mail.<br>",
+                    "Dengan ini Anda menyatakan bahwa Anda telah membaca dan menyetujui Kebijakan Privasi sebagaimana dijabarkan di [https://landing.lexicon.id/privacy-policy], dan menyetujui atas pengumpulan, penggunaan dan pengungkapan Data Pribadi Anda untuk tujuan sebagai ditetapkan dalam Kebijakan Privasi tersebut.<br>"
+                ]
+            },
+            "tunes" : {
+                "alignmentBlockTune" : {
+                    "alignment" : "justify"
+                }
+            }
+        },
+        {
+            "id" : "ngxa4EAZm9",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>I. PENGAKHIRAN</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "OBVdKhixJq",
+            "type" : "list",
+            "data" : {
+                "style" : "ordered",
+                "items" : [
+                    "Berdasarkan kebijakan kami, segera setelah memberikan pemberitahuan, kami dapat menghentikan penggunaan Platform dan/atau Layanan  dan/atau  menonaktifkan  Username  dan Password  Anda.  Kami  dapat  menghentikan  akses Anda  ke  Platform  dan/atau  Layanan  (atau  bagian daripadanya) dengan alasan tertentu, termasuk jika terjadi  pelanggaran  terhadap  Syarat  &amp;  Ketentuan Penggunaan  ini  atau  di  mana  jika  kami  percaya bahwa  Anda  telah  melanggar  atau  bertindak  tidak sesuai dengan syarat atau ketentuan yang berlaku di sini,  atau  jika  dalam  pendapat  kami  atau  pendapat otoritas  regulasi,  layanan  tersebut  yang  berkaitan dengan Platform tidak untuk dapat diberikan/dilaksanakan.",
+                    "Anda  dapat  mengakhiri  Syarat  &amp;  Ketentuan Penggunaan ini dengan memberikan pemberitahuan secara tertulis dalam waktu 7 (tujuh) hari kerja kepada kami. &nbsp;"
+                ]
+            },
+            "tunes" : {
+                "alignmentBlockTune" : {
+                    "alignment" : "justify"
+                }
+            }
+        },
+        {
+            "id" : "l27H3RxTSr",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>J. PEMBERITAHUAN</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "UlM68wJx7Y",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "1. Pemberitahuan dari kami: Semua pemberitahuan atau  komunikasi  lainnya  yang  diberikan  kepada Anda:&nbsp;",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "SlGr5DHRVw",
+            "type" : "list",
+            "data" : {
+                "style" : "ordered",
+                "items" : [
+                    "dikomunikasikan  melalui  media  cetak  atau elektronik yang kami kirimkan dalam suatu tanggal publikasi atau siaran yang telah kita pilih; atau",
+                    "dikirim melalui pos atau disampaikan pada alamat  terakhir  Anda,  dan  akan  dianggap  telah diterima  oleh  Anda  pada  hari  pengiriman  tersebut atau pada hari diterimanya.<br>"
+                ]
+            },
+            "tunes" : {
+                "alignmentBlockTune" : {
+                    "alignment" : "justify"
+                }
+            }
+        },
+        {
+            "id" : "0R77Vhrb0h",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "2. Anda  hanya  dapat  memberikan  pemberitahuan kepada kami secara tertulis dikirim ke alamat atau alamat e-mail kami ditunjuk (tech@lexicon.id), dan kami akan menganggap Anda telah menerima pemberitahuan  tersebut  hanya  pada  saat  tanggal penerimaan. Kami berusaha untuk menanggapi secara  cepat  terhadap  setiap  pemberitahuan  dari Anda,  namun  kami  tidak  dapat  menjamin  bahwa kami akan selalu merespon dengan kecepatan yang konsisten setiap saat.&nbsp;",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "g7xP3mBgO5",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "3. Kendati  diatur  dalam  Klausul  1  dan  2  diatas, kami mungkin sewaktu-waktu dapat memilih media atau cara yang lain dalam memberikan pemberitahuan (termasuk namun tidak terbatas pada e-mail atau bentuk lain dari komunikasi elektronik)  yang  waktu  atau  saat  dianggap  telah diterima pada saat pemberitahuan tersebut diberikan.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "AGPTdNMR6W",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>K. KETENTUAN HUKUM</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "8L1EIb-Wdr",
+            "type" : "list",
+            "data" : {
+                "style" : "ordered",
+                "items" : [
+                    "Syarat &amp; Ketentuan Pengguna akan diatur dan ditafsirkan sesuai dengan hukum Indonesia dan Anda dengan ini tunduk pada yurisdiksi eksklusif Hukum Indonesia.",
+                    "Bantuan Hukum: Kami dapat mencari atau menggunakan bantuan hukum dengan segera berdasarkan itikad baik untuk menangani pelanggaran atau tidak dipatuhinya Syarat &amp; Ketentuan  Pengunaan  ini  adalah  sedemikian  rupa sehingga perintah penahanan sementara atau langsung ganti-rugi lainnya adalah satu-satunya yang sesuai atau memadai."
+                ]
+            },
+            "tunes" : {
+                "alignmentBlockTune" : {
+                    "alignment" : "justify"
+                }
+            }
+        },
+        {
+            "id" : "PVzPT5HKZv",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>L. PERUBAHAN</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "Uo9rwZ7EfE",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Kami dengan pemberitahuan melalui Platform atau dengan  metode  lain  seperti  kami  inginkan  (yang mungkin termasuk pemberitahuan melalui e-mail), dapat  merubah  syarat  &amp;  ketentuan  pada  Syarat Penggunaan yang berlaku pada tanggal yang kami tentukan melalui cara di atas. Jika Anda menggunakan Platform atau Layanan setelah tanggal  tersebut,  Anda  dianggap  telah  menerima perubahan tersebut. Jika Anda mau menerima atau penolakan perubahan tersebut, Anda harus berhenti akses atau menggunakan Platform dan Layanan dan mengakhiri Syarat Penggunaan ini. Hak kami untuk merubah  Syarat  Penggunaan  di  tersebut  di  atas dapat  dilaksanakan  tanpa  persetujuan  dari  setiap orang  atau  badan  yang  bukan  merupakan  pihak berdasarkan Syarat Penggunaan ini.&nbsp;",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "iPrCM2pPm1",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>M. KEADAAN MEMAKSA</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "_wW_6zn7kG",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "Kami dilepaskan dari pertanggungjawaban atas wanprestasi, kesalahan, gangguan atau keterlambatan  dalam  pelaksanaan  kewajiban  atau untuk setiap ketidakakuratan, atau ketidaksesuaian di  Platform  dan/atau  isi Layanan,  jika  hal  tersebut disebabkan, secara keseluruhan atau sebagian, langsung atau tidak langsung, oleh suatu peristiwa atau kegagalan yang disebabkan Keadaan Memaksa.",
+                "alignment" : "justify"
+            }
+        },
+        {
+            "id" : "s-x0efR8Qb",
+            "type" : "paragraph",
+            "data" : {
+                "text" : "<b>N. KETENTUAN LAIN</b>",
+                "alignment" : "left"
+            }
+        },
+        {
+            "id" : "aulVNzjLQk",
+            "type" : "list",
+            "data" : {
+                "style" : "ordered",
+                "items" : [
+                    "<b>Hak kumulatif dan penyelesaian</b>: Kecuali ditentukan lain dalam Syarat Penggunaan ini, klausa - klausa Syarat Penggunaan ini dan hak dan penyelesaian kami berdasarkan Syarat Penggunaan&nbsp;ini, adalah kumulatif dan tanpa prasangka serta hak atau penyelesaian kami mungkin kami miliki berdasarkan  hukum  atau  keadilan,  dan  tidak  ada ketentuan  yang  akan  menghalangi  atau  mencegah hak kami dan upaya hukum atau penyelesaian kami berdasarkan hukum yang berlaku.<br>",
+                    "<b>No Waiver</b>: Kegagalan kami untuk menegakkan Syarat  Penggunaan  tidak  dapat  diartikan  sebagai diabaikannya  dari  ketentuan  -  ketentuan  ini,  dan kegagalan  tersebut  tidak  akan  mempengaruhi  hak kami selanjutnya untuk menegakkan Syarat Penggunaan ini. Kami akan tetap berhak menggunakan  hak  dan  penyelesaian/upaya  hukum kami dalam setiap kondisi lain di mana Anda melanggar Syarat Penggunaan ini.<br>",
+                    "<b>Severability</b>: Jika suatu saat ada ketentuan pada Syarat  Penggunaan  ini  yang  menjadi  ilegal,  tidak sah  atau  tidak  dapat  diterapkan  dalam  hal  apapun, maka legalitas, validitas dan keberlakuan dari ketentuan  lainnya  dalam  Syarat  Penggunaan  ini tidak  akan  terpengaruh  atau  berkurang  karenanya, dan akan terus berlaku.&nbsp;<br>",
+                    "<b>Hak  Pihak  Ketiga</b>:  Seseorang  atau  pihak  yang bukan  merupakan  pihak  yang  tunduk  pada  Syarat Penggunaan  ini,  tidak  berhak  berdasarkan  hukum apapun dan yurisdiksi manapun untuk menjalankan ketentuan dari Syarat Penggunaan ini. Untuk menghindari keraguan, tidak ada dalam Klausa ini yang akan mempengaruhi hak-hak dari setiap pengalihan yang diizinkan atas Syarat Penggunaan ini.<br>",
+                    "<b>Koreksi kesalahan</b>: Setiap kesalahan ketik, administrasi  atau  kesalahan  lainnya  atau  kelalaian dalam  penerimaan,  faktur  atau  dokumen  lainnya yang  terjadi  pada  sisi  kami  akan  menjadi  bahan perbaikan kami yang dilakukan oleh kami.<br>",
+                    "<b>Seluruh kesepakatan</b>: Syarat  Penggunaan harus merupakan keseluruhan perjanjian antara Anda dan kami berkaitan dengan materi pokok dalam perjanjian  dan  menggantikan  dan  menggantikan&nbsp;secara  penuh  semua  pemahaman,  komunikasi  dan perjanjian  sebelumnya  sehubungan  dengan  materi pokok dalam perjanjian.<br>",
+                    "<b>Mengikat  dan  konklusif</b>:  Anda  mengakui  dan menyetujui bahwa setiap catatan (termasuk catatan dari setiap percakapan telepon terkait dengan Layanan, jika ada) dikelola oleh kami atau penyedia layanan kami yang berhubungan dengan atau yang berhubungan dengan Platform dan Layanan bersifat mengikat  dan  konklusif  pada  Anda  untuk  semua tujuan apapun dan menjadi bukti dari setiap informasi  dan/atau  data  yang  dikirimkan  antara kami dan Anda. Anda setuju bahwa semua catatan tersebut  diterima  sebagai  bukti  dan  bahwa  Anda tidak akan menantang atau membantah diterimanya, keandalan, akurasi atau keaslian catatan tersebut dengan alasan karena catatan tersebut  dalam  bentuk  elektronik  atau  output  dari sistem computer dan dengan ini Anda mengabaikan hak-hak anda terhadap hal-hal tersebut.<br>",
+                    "<b>Subkontraktor dan delegasi</b>: Kami berhak untuk mendelegasikan atau melakukan sub-kontrak kinerja dari setiap fungsi kami sehubungan dengan Platform dan/atau Jasa dan berhak untuk menggunakan penyedia layanan, subkontraktor dan/atau agen seperti sewajarnya dalam pandangan kami.<br>",
+                    "<b>Pengalihan</b>: Anda tidak dapat mengalihkan hak dan kewajiban Anda atas Syarat &amp; Ketentuan Penggunaan  tanpa  izin  tertulis  sebelumnya  dari kami.<br>"
+                ]
+            },
+            "tunes" : {
+                "alignmentBlockTune" : {
+                    "alignment" : "justify"
+                }
+            }
+        }
+    ],
+    "version" : "2.28.2"
+}
